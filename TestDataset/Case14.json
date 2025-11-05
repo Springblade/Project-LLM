@@ -3,5 +3,5 @@
       "Text": "A 22-year-old woman presents to a clinic in Bangladesh with acute watery diarrhoea. She is afebrile, with sunken eyes, dry mouth and a scaphoid abdomen. She has recently visited a religious festival where a number of other people who attended have also fallen ill ",
       "ImageList" : "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case14/1-s2.0-S0140673603153287-gr2.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case14/p0002.jpg']" 
     },
-    "Answer":{}
+    "Answer": "This presentation is highly suggestive of cholera, caused by Vibrio cholerae, given the acute watery diarrhoea, signs of severe dehydration, and a recent outbreak at a mass gathering."
   }
