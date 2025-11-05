@@ -3,5 +3,5 @@
       "Text": "A 26-year-old woman presents to a clinic in Malawi with a 2-day history of headache and confusion, with an eyelid drooping on the left side. She is febrile and has a unilateral third nerve palsy",
       "ImageList" : "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case03/3-s2.0-B9780128188255000036-f03-02-9780128188255.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case03/1-s2.0-S2405579420300036-gr2.jpg']" 
     },
-    "Answer":{}
+    "Answer": "Trypanosomiasis (African sleeping sickness) - The patient presents with neurological symptoms including third nerve palsy and altered consciousness in Malawi, an endemic area. The images show trypanosomes (parasites) on microscopy and the tsetse fly vector, characteristic of Trypanosoma infection causing CNS involvement."
   }
