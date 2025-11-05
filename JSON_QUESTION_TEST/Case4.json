@@ -1,6 +1,6 @@
 {
     "Question": {
       "Text": "A 4-year-old girl presents to a clinic in Uganda with bad headache, shaking chills, seizure about ten minutes.",
-      "ImageList" : "['URL1','URL2']" 
+      "ImageList" : "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case04/ezgif-4-2c35bfb429.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case04/images%20(1).jpg']" 
     }
   }
