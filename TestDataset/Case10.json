@@ -1,0 +1,7 @@
+{
+    "Question": {
+      "Text": "A 55-year-old woman presents to a clinic in Australia W with skin lesions/rash/itching. she has fissures over her wrists and knees. She also looks pale, is clammy and poorly responsive.",
+      "ImageList" : "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case10/8723d590-d6a3-43da-a3d5-90d6a343da28.webp','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case10/article_river_ebeaddf026a611f0ad280bc69174c109-1.png']" 
+    },
+    "Answer":{}
+  }
