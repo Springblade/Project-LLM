@@ -1,7 +1,7 @@
 {
     "Question": {
       "Text": "A 34-year-old man from Thailand presents with a 2-week history of fever, weight loss, fatigue/malaise. The patient has a generalized non-pruritic rash, predominantly on his face and trunk, which consists of small umbilicated papules",
-      "ImageList" : "['URL1','URL2']" 
+      "ImageList" : "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case17/12879_2019_4351_Fig1_HTML.png','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case17/gr4_lrg.jpg']" 
     },
     "Answer":{}
   }
