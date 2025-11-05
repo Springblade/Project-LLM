@@ -1,0 +1,7 @@
+{
+    "Question": {
+      "Text": "A 7-year-old girl presents to a clinic in Peru with fever, myalgia, arthralgia, skin lesions/rash/itching, nausea/vomiting.",
+      "ImageList" : "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case02/images%20(2).jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case02/images%20(1).jpg']" 
+    },
+    "Answer":"The 7-year-old girl’s symptoms are consistent with a viral infection such as dengue fever or chikungunya, both common in Peru and characterized by fever, myalgia, arthralgia, and rash."
+  }
