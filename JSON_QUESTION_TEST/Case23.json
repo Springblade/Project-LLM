@@ -2,5 +2,6 @@
     "Question": {
       "Text": "A 31-year-old HIV-positive man presents to a clinic with a 6-week history of fever, chills/sweats, cough, shortness of breath, fatigue and weight loss. He has a history of extensive work-related travel. He is febrile with type 1 respiratory failure ",
       "ImageList" : "['URL1','URL2']" 
-    }
+    },
+    "Answer":{}
   }

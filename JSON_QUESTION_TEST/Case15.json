@@ -2,5 +2,6 @@
     "Question": {
       "Text": "A 3-year-old boy presents to a clinic in Laos with a 10-day history of fever and poor appetite. He also has unilateral parotid swelling and purulent discharge from his ear.",
       "ImageList" : "['URL1','URL2']" 
-    }
+    },
+    "Answer":{}
   }

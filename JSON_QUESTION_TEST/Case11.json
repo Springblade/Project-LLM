@@ -2,5 +2,6 @@
     "Question": {
       "Text": "A 45-year-old man presents to a clinic in Malawi with back pain and progressive difficulty in walking. He denies any constitutional symptoms.",
       "ImageList" : "['URL1','URL2']" 
-    }
+    },
+    "Answer":{}
   }

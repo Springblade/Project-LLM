@@ -2,5 +2,6 @@
     "Question": {
       "Text": "A 25-year-old woman. known to be HIV-positive and on ART, presents to a clinic in Malaw with confusion, high fever and convulsions on admission. Pupils are equal and reactive with photophobia; the neck is stiff and there is no rash.",
       "ImageList" : "['URL1','URL2']" 
-    }
+    },
+    "Answer":{}
   }

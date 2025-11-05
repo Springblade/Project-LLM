@@ -2,5 +2,6 @@
     "Question": {
       "Text": "A 43-year-old German man presents to a clinic with fever, cough. He also has some headache and diarrhoea. He reports freshwater contact in Mozambique. On examination he is febrile.",
       "ImageList" : "['URL1','URL2']" 
-    }
+    },
+    "Answer":{}
   }
