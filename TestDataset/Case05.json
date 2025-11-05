@@ -3,5 +3,5 @@
       "Text": "A 4-year-old boy presents to a clinic in Laos with bad breath, skin lesions/rash/itching. His mouth has a lesion that eat through the child's cheek",
       "ImageList" : "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case05/fx1.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case05/images%20(1).jpg']" 
     },
-    "Answer":{}
+    "Answer": "This presentation is characteristic of noma (cancrum oris), a severe gangrenous infection of the mouth and face often associated with malnutrition and poor oral hygiene."
   }
