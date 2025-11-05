@@ -3,5 +3,5 @@
       "Text": "A 20-year-old woman presents to a clinic in Sudan with a 2-day history of fever, headache, myalgia, skin lesions/rash/itching, nausea/vomiting, abdominal pain.",
       "ImageList" : "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case01/14799218783_cbebaa27b1_b.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case01/article-2709686-201A329400000578-898_634x432.jpg']" 
     },
-    "Answer":{}
+    "Answer":"The 20-year-old woman’s symptoms suggest an acute febrile illness, possibly viral (e.g., dengue fever, chikungunya, or viral hemorrhagic fever), though malaria should also be ruled out given the region and presentation."
   }
