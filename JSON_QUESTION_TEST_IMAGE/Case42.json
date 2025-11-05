@@ -1,0 +1,10 @@
+{
+  "Question": {
+    "Text": "A 41-Year-Old Male Traveller with a 7-day history of itchy skin eruptions on both upper thighs. He has recently returned from a trip to Asia and Australia.",
+    "ImageList": [
+      "https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case42/1-s2.0-S1201971212012921-gr1.jpg",
+      "https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case42/images%20(1).jpg"
+    ]
+  },
+    "Answer":{}
+}

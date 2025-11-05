@@ -2,8 +2,7 @@
   "Question": {
     "Text": "A 30-Year-Old Male Chinese with 7 days of fever, chills, headache and a dry cough after receiving a 5-day course of antimalarial treatment with artemether for falciparum. The fever persisted and he developed jaundice",
     "ImageList": [
-      "URL1",
-      "URL2"
+      "https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case39/images%20(1).jpg"
     ]
   },
     "Answer":{}
