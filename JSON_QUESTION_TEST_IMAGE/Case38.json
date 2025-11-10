@@ -3,5 +3,5 @@
     "Text": "A 24-Year-Old Female Globetrotter with paraesthesias that spread over the right side of her body, lasting for about 2 minutes. She lives on a vegan diet. The MRI of the brain shows multiple cystic lesions in both hemispheres.",
     "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case38/Neurocysticercosis.gif','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case38/images%20(1).jpg']"
   },
-    "Answer":{}
+    "Answer": "Neurocysticercosis - The vegan traveler presents with focal seizures (paraesthesias spreading over right body) and multiple cystic brain lesions on MRI. The images show multiple ring-enhancing cysts in brain parenchyma and Taenia solium cysticercus larvae. Neurocysticercosis, caused by ingestion of T. solium eggs (not from eating pork), is the most common parasitic CNS infection worldwide and leading cause of acquired epilepsy in endemic regions."
 }
