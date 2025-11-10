@@ -1,10 +1,7 @@
 {
   "Question": {
     "Text": " A 32-Year-Old Man from Malawi With a history of right upper abdominal pain, breathlessness and syncope. His past medical history is unremarkable, except for an episode of a blistering and painful skin lesion 3 years previously that affected the right side of his abdomen around the level of the umbilicus – this had healed spontaneously after several weeks.",
-    "ImageList": [
-      "URL1",
-      "URL2"
-    ]
+    "ImageList": "['URL1','URL2']"
   },
     "Answer":{}
 }

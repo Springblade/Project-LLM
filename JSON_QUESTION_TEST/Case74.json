@@ -1,10 +1,7 @@
 {
   "Question": {
     "Text": "A 28-Year-Old Woman from Sierra Leone With a 6-day history of fever, weakness, sore throat and retrosternal chest pain. She has had loose stools twice a day for the past 2 days. On the second day after admission she develops conjunctivitis. By this stage she is very unwell and is unable to walk unaided. She has developed a cough and breathlessness.",
-    "ImageList": [
-      "URL1",
-      "URL2"
-    ]
+    "ImageList": "['URL1','URL2']"
   },
     "Answer":{}
 }

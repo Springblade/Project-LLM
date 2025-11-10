@@ -1,10 +1,7 @@
 {
   "Question": {
     "Text": "A 16-year-old boy presents to a clinic in Sri Lanka with a 2-day history of fever, severe body aches and a reduced urine output. He is jaundiced with subconjunctival haemorrhage and has a tender hepatomegaly. He has had contact with a water stream before his ill health.",
-    "ImageList": [
-      "https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case27/images%20(1).jpg",
-      "https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case27/images%20(2).jpg"
-    ]
+    "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case27/images%20(1).jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case27/images%20(2).jpg']"
   },
     "Answer":{}
 }

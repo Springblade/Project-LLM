@@ -1,10 +1,7 @@
 {
   "Question": {
     "Text": "A 14-Year-Old Girl in the Solomon Islands With painless, non-healing large ulcer of her left leg that began 1 month earlier.",
-    "ImageList": [
-      "URL1",
-      "URL2"
-    ]
+    "ImageList": "['URL1','URL2']"
   },
     "Answer":{}
 }

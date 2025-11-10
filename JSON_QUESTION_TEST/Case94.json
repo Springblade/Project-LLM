@@ -1,10 +1,7 @@
 {
   "Question": {
     "Text": "A 20-Year-Old Woman from the Democratic Republic of the Congo With a history of fever, malaise, headache, dry cough, swelling of the neck and a disseminated skin rash, which appeared 2 days after the symptoms began. The symptoms is also accompanied by a disseminated uniform vesiculopustular skin rash including the palms and soles of the feet as well as the oral mucosa and a prominent cervical lymphadenopathy.",
-    "ImageList": [
-      "URL1",
-      "URL2"
-    ]
+    "ImageList": "['URL1','URL2']"
   },
     "Answer":{}
 }
