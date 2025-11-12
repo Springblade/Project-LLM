@@ -1,10 +1,7 @@
 {
   "Question": {
     "Text": "A 7-Year-Old Girl from West Africa with two progressive cutaneous ulcers linked by an area of altered skin. The movement in the associated joint is restricted. General symptoms are limited to a mildly elevated temperature.",
-    "ImageList": [
-      "https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case41/images%20(1).jpg",
-      "https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case41/images%20(2).jpg"
-    ]
+    "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case41/images%20(1).jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case41/images%20(2).jpg']"
   },
     "Answer": "Buruli ulcer (Mycobacterium ulcerans infection) - The child from West Africa presents with two progressive painless cutaneous ulcers linked by altered skin with joint restriction and minimal systemic symptoms. The images show large undermined ulcers with necrotic base and acid-fast bacilli of M. ulcerans. Buruli ulcer causes painless necrotizing skin disease with characteristic undermined edges, often crossing joints and causing contractures, endemic in tropical wetland areas."
 }

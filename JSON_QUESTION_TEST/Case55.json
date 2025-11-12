@@ -1,10 +1,7 @@
 {
   "Question": {
     "Text": "A 40-Year-Old Male Farmer from Peru With 4-month history of chronic cough and weight loss. After 3 months of TB treatment for a presumptive diagnosis of pulmonary tuberculosis, he shows no clinical improvement. The patient had been found to be HTLV-1-positive 10 years previously. A recent HIV ELISA test was negative.",
-    "ImageList": [
-      "URL1",
-      "URL2"
-    ]
+    "ImageList": "['URL1','URL2']"
   },
     "Answer":{}
 }

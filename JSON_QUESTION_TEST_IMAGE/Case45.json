@@ -1,10 +1,7 @@
 {
   "Question": {
     "Text": "A 2-Month-Old Girl from Laos With 3 days of irritability, dyspnoea and grunting. The child has been breastfeeding poorly and was noted to have been grunting, which is a non-specific sign of severe systemic illness in infants. the child is irritable, cyanosed and shows signs of heart failure.",
-    "ImageList": [
-      "https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case45/Beriberi.jpg",
-      "https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case45/images%20(1).jpg"
-    ]
+    "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case45/Beriberi.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case45/images%20(1).jpg']"
   },
     "Answer": "Infantile beriberi (thiamine/vitamin B1 deficiency) - The 2-month-old breastfed infant from Laos presents with irritability, dyspnea, grunting, cyanosis, and heart failure. The images show infant with cardiac beriberi features and thiamine chemical structure. Infantile beriberi occurs in breastfed infants of thiamine-deficient mothers (often subsisting on polished rice diets), causing acute cardiac failure (wet beriberi) with tachycardia, cardiomegaly, and pulmonary edema, requiring urgent thiamine replacement."
 }

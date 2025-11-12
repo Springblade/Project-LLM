@@ -1,10 +1,7 @@
 {
   "Question": {
     "Text": "A 34-Year-Old Male Immigrant from Peru With chronic diarrhoea and abdominal pain, leading to severe weight loss and cachexia. Laboratory values show signs of malabsorption and inflammation.",
-    "ImageList": [
-      "URL1",
-      "URL2"
-    ]
+    "ImageList": "['URL1','URL2']"
   },
     "Answer":{}
 }

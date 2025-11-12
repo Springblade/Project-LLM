@@ -1,10 +1,7 @@
 {
   "Question": {
     "Text": "A 12-year-old boy from a pastoralist community in an arid area presents to a clinic in Rural Kenya with a 2-month history of painful, watery, red eyes. He has a history of using traditional eye medicine. ",
-    "ImageList": [
-      "https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case30/gr1_lrg.jpg",
-      "https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case30/images%20(1).jpg"
-    ]
+    "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case30/gr1_lrg.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case30/images%20(1).jpg']"
   },
     "Answer": "Trachoma (Chlamydia trachomatis infection) - The child from a pastoralist community presents with chronic painful conjunctivitis with history of traditional eye medicine use in rural Kenya. The images show follicular conjunctivitis with scarring, trichiasis (inturned eyelashes), and Chlamydia trachomatis inclusions on microscopy. Trachoma is the leading infectious cause of blindness worldwide, endemic in areas with poor sanitation and water access."
 }

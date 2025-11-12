@@ -1,10 +1,7 @@
 {
   "Question": {
     "Text": "A 20-year-old male Indian with a history of dog-bite presents with fever and rapidly progressive quadriparesis a month after the incident. He has received a full course of five active anti-rabies vaccinations, but no anti-rabies immunoglobulin.",
-    "ImageList": [
-      "URL1",
-      "URL2"
-    ]
+    "ImageList": "['URL1','URL2']"
   },
     "Answer":{}
 }

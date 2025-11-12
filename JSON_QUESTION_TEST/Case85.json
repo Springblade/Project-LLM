@@ -1,10 +1,7 @@
 {
   "Question": {
     "Text": "A 55-Year-Old Female Pig Farmer from Vietnam With a 1-day history of fever, headache and vomiting. Her blood film is negative for malaria and she is treated with fluids and paracetamol. On the second day of illness she develops confusion. She has a widespread non-blanching purpuric rash. The patient has a history of type 2 diabetes and hypertension, she has been on treatment for 4 years.",
-    "ImageList": [
-      "URL1",
-      "URL2"
-    ]
+    "ImageList": "['URL1','URL2']"
   },
     "Answer":{}
 }

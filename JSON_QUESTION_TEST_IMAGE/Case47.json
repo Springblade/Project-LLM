@@ -1,9 +1,7 @@
 {
   "Question": {
     "Text": "An HIV positive and on ART 32-Year-Old Man from Malawi With 6-week history of productive cough and chest pain associated with weight loss, fevers and night sweats. The patient had been treated for acid-fast bacilli (AFB) sputum smearnegative pulmonary tuberculosis 12 years ago.",
-    "ImageList": [
-      "https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case47/12879_2016_1824_Fig1_HTML.png"
-    ]
+    "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case47/12879_2016_1824_Fig1_HTML.png']"
   },
     "Answer": "Pulmonary aspergilloma (fungus ball) - The HIV-positive patient on ART presents with chronic productive cough, chest pain, weight loss, and constitutional symptoms with prior TB treatment history. The image shows chest imaging with characteristic round intracavitary mass (fungus ball or mycetoma) with air crescent sign, typical of Aspergillus colonizing pre-existing lung cavity (from prior tuberculosis), which can cause hemoptysis and chronic respiratory symptoms."
 }
