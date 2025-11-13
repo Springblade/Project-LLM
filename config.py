@@ -10,5 +10,5 @@ TEMPERATURE = 0.3
 MAX_TOKENS = 2048
 
 # Dataset Configuration
-DATASET_PATH = "Path/TestDataset.json"
-# RESULTS_OUTPUT_PATH = "results/evaluation_results.csv"
+DATASET_PATH = "TestDataset\LLAMA_RAG_test (4).json"
+RESULTS_OUTPUT_PATH = "results/llamarag.csv"
