@@ -1,0 +1,443 @@
+{
+  "001": {
+    "question": {
+      "Text": "A 24-Year-Old Female Globetrotter with paraesthesias that spread over the right side of her body, lasting for about 2 minutes. She lives on a vegan diet. The MRI of the brain shows multiple cystic lesions in both hemispheres.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case38/Neurocysticercosis.gif','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case38/images%20(1).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Neurocysticercosis - The vegan traveler presents with focal seizures (paraesthesias spreading over right body) and multiple cystic brain lesions on MRI. The images show multiple ring-enhancing cysts in brain parenchyma and Taenia solium cysticercus larvae. Neurocysticercosis, caused by ingestion of T. solium eggs (not from eating pork), is the most common parasitic CNS infection worldwide and leading cause of acquired epilepsy in endemic regions.",
+    "answer": "Neurocysticercosis."
+  },
+  "002": {
+    "question": {
+      "Text": "A 4-year-old boy presents to a clinic in Laos with bad breath, skin lesions/rash/itching. His mouth has a lesion that eat through the child's cheek",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case05/fx1.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case05/images%20(1).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Noma (Cancrum oris) - The patient presents with severe destructive orofacial gangrene with perforation through the cheek in Laos. The images show characteristic gangrenous necrotic lesions of the face and mouth, often associated with malnutrition, poor oral hygiene, and preceding infections in resource-limited settings.",
+    "answer": "Noma, also known as cancrum oris."
+  },
+  "003": {
+    "question": {
+      "Text": "A 14-year-old boy presents to a clinic in Malawi with necrotic wound on his right foot. He was bitten by a snake 3 weeks earlier. Shortly after the bite, haemorrhagic bullae formed on the right leg. His gums started to bleed and he vomited extensively.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case26/images%20(1).jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case26/images%20(2).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Snake envenomation (viper bite) with local necrosis and coagulopathy - The patient presents with necrotic wound following snake bite 3 weeks ago, with hemorrhagic bullae, gingival bleeding, and vomiting in Malawi. The images show extensive tissue necrosis with black eschar and snake (likely puff adder or carpet viper), typical of viperid envenomation causing local cytotoxicity and systemic hemorrhagic coagulopathy.",
+    "answer": "Snakebite envenoming, likely caused by a venomous snake such as a species of the genus Echis or Bitis, resulting in hemorrhagic necrosis and potentially disseminated intravascular coagulation."
+  },
+  "004": {
+    "question": {
+      "Text": "An HIV-positive 35-Year-Old Malawian Woman with an ocular tumour in her left eye. It started as a whitish lesion on her conjunctiva several months ago. The lesion continued to grow and the affected eye eventually turned blind.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case43/images%20(1).jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case43/images%20(2).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Ocular squamous cell carcinoma (conjunctival carcinoma) - The HIV-positive woman from Malawi presents with progressive ocular tumor starting as whitish conjunctival lesion leading to blindness. The images show large fungating mass involving conjunctiva and cornea with irregular vascularization. Conjunctival squamous cell carcinoma is strongly associated with HIV infection, HPV, and UV exposure in sub-Saharan Africa, presenting as aggressive locally invasive tumors.",
+    "answer": "Kaposi's Sarcoma."
+  },
+  "006": {
+    "question": {
+      "Text": "A 29-year-old man presents to a clinic in The Gambia with a 7-day history of skin lesions/rash/itching in his private part. The ulcers are tender, soft and bleed on contact",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case12/M1300744.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case12/images%20(1).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Chancroid (Haemophilus ducreyi infection) - The patient presents with painful, tender genital ulcers that bleed easily in The Gambia, endemic for this sexually transmitted infection. The images show multiple deep, soft, ragged-edged ulcers with purulent base and gram-negative bacilli in a 'school of fish' pattern on microscopy, classic findings for chancroid.",
+    "answer": "Genital Herpes or Chancroid."
+  },
+  "007": {
+    "question": {
+      "Text": "A 40-year-old man presents to a clinic in Togo with a triad of corneal opacities, skin changes and subcutaneous nodules. Many adults in the village are blind. The patient also complains of suffering from intense itching of his skin that keeps him awake at night",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case19/Onchocerciasis-eye.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case19/images%20(1).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Onchocerciasis (River blindness) - The patient presents with the classic triad of corneal opacities, skin changes, and subcutaneous nodules with severe nocturnal pruritus in Togo, an endemic area with widespread blindness. The images show sclerosing keratitis with corneal opacity and microfilariae of Onchocerca volvulus, transmitted by blackflies, causing chronic dermatitis and ocular disease.",
+    "answer": "Onchocerciasis."
+  },
+  "008": {
+    "question": {
+      "Text": "A 41-Year-Old Male Traveller with a 7-day history of itchy skin eruptions on both upper thighs. He has recently returned from a trip to Asia and Australia.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case42/1-s2.0-S1201971212012921-gr1.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case42/images%20(1).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Cutaneous larva migrans (creeping eruption) - The traveler presents with intensely itchy serpiginous skin eruptions on thighs after returning from Asia and Australia. The images show characteristic raised, erythematous, serpiginous (snake-like) tracks on skin and hookworm larvae. This condition results from cutaneous penetration and migration of animal hookworm larvae (typically dog/cat Ancylostoma species) acquired from contaminated sandy beaches or soil.",
+    "answer": "Hookworm-related cutaneous larva migrans."
+  },
+  "010": {
+    "question": {
+      "Text": "A 14-year-old boy presents to a clinic in Rural Tanzania with acute-onset non-progressive spastic paraplegia. There is no history of back pain. The main staple food crop in his village is cassava.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case24/images%20(1).jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case24/images%20(2).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Konzo (spastic paraparesis from cassava toxicity) - The patient presents with acute-onset non-progressive spastic paraplegia without back pain in a cassava-dependent community in Tanzania. The images show cassava plants and affected individuals with spastic gait. Konzo results from chronic cyanide toxicity from insufficiently processed bitter cassava consumption, causing permanent but non-progressive bilateral leg weakness.",
+    "answer": "Konzo disease."
+  },
+  "015": {
+    "question": {
+      "Text": "A 20-year-old woman presents to a clinic in Sudan with a 2-day history of fever, headache, myalgia, skin lesions/rash/itching, nausea/vomiting, abdominal pain.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case01/14799218783_cbebaa27b1_b.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case01/article-2709686-201A329400000578-898_634x432.jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Chikungunya virus infection - The patient presents with acute febrile illness with polyarthralgia, myalgia, and characteristic rash. The images show erythematous maculopapular rash and mosquito vectors (Aedes species) which are typical for Chikungunya, endemic in Sudan and East Africa.",
+    "answer": "Dengue Fever, Rift Valley Fever or other Viral Hemorrhagic Fever is possible, given the symptoms of fever, headache, myalgia, skin lesions, nausea, vomiting and abdominal pain, as well as the geographical location of Sudan. However, the provided images are not directly analyzed. Based on the symptoms, the potential diagnosis includes Dengue Fever."
+  },
+  "016": {
+    "question": {
+      "Text": "A 42 years old male Lao rice famer presents during the rainy season with prolonged fever, jaundice, a back abscess and chest signs. He is a known type 2 diabetic but has been non-adherent to his antidiabetic medication.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case32/images%20(1).jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case32/urn_cambridge.org_id_binary_20181004021412280-0320_S0022215118001391_S0022215118001391_fig3g.jpeg']"
+    },
+    "contexts": "",
+    "ground_truth": "Disseminated melioidosis - The diabetic rice farmer presents during rainy season with prolonged fever, jaundice, back abscess, and pneumonia in Laos, highly endemic for Burkholderia pseudomallei. The images show multiple organ abscesses and characteristic bipolar-staining gram-negative bacilli. Poorly controlled diabetes is a major risk factor for severe disseminated melioidosis with multiple organ involvement including pneumonia, liver, and soft tissue abscesses.",
+    "answer": "Melioidosis."
+  },
+  "017": {
+    "question": {
+      "Text": "A 43-year-old German man presents to a clinic with fever, cough. He also has some headache and diarrhoea. He reports freshwater contact in Mozambique. On examination he is febrile.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case20/1-s2.0-S2213007124000558-gr1.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case20/gr2.jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Acute schistosomiasis (Katayama fever) - The returning traveler presents with acute febrile illness, respiratory symptoms, and diarrhea after freshwater exposure in Mozambique. The images show Schistosoma eggs with terminal spine (S. haematobium) on microscopy and cercaria in water, representing acute immune response to migrating schistosomula typically occurring 2-8 weeks post-exposure.",
+    "answer": "Schistosomiasis."
+  },
+  "018": {
+    "question": {
+      "Text": "A 45-year-old man presents to a clinic in Malawi with back pain and progressive difficulty in walking. He denies any constitutional symptoms.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case11/urn_cambridge.org_id_binary_20241028034148773-0417_9781009388764_51732fig5.png','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case11/images%20(1).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Spinal tuberculosis (Pott's disease) - The patient presents with back pain and progressive neurological symptoms (difficulty walking) without fever in Malawi, a TB-endemic region. The images show vertebral body destruction with collapse and kyphotic deformity on spinal imaging, and acid-fast bacilli (Mycobacterium tuberculosis) on microscopy, characteristic of skeletal tuberculosis affecting the spine.",
+    "answer": "Spinal Tuberculosis (Pott's disease)."
+  },
+  "019": {
+    "question": {
+      "Text": "A 24-Year-Old Man of Turkish Origin With right upper quadrant pain, jaundice, nausea and vomiting. He was diagnosed with CE 3 years earlier and has not been on any specific treatment.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case50/GII-2-129-g002.gif','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case50/images%20(1).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Cystic echinococcosis (hydatid disease) - The Turkish patient presents with right upper quadrant pain, jaundice, nausea, and vomiting with prior CE (cystic echinococcosis) diagnosis 3 years ago without treatment. The images show large hepatic cystic lesion with daughter cysts and septations on imaging, and Echinococcus granulosus protoscoleces. Hydatid cysts grow slowly over years, can rupture causing anaphylaxis, and require careful surgical or medical management.",
+    "answer": "Hepatic Echinococcosis (Hydatid Disease) with possible complications such as rupture or secondary infection, or possibly Biliary Obstruction due to the cyst."
+  },
+  "020": {
+    "question": {
+      "Text": "A 36-year-old European presents because of a mobile migratory mass he has been noticing for the past 3 weeks. The mass migrated from his groin to his chest and finally reappearing on his right shoulder",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case06/gr2.jpeg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case06/images%20(1).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Sparganosis - The patient presents with a characteristic migratory subcutaneous mass. The images show a serpentine subcutaneous swelling and the sparganum larva (plerocercoid of Spirometra species), a parasitic cestode acquired through ingestion of contaminated water or undercooked infected meat, causing creeping eruption.",
+    "answer": "Loiasis or Subcutaneous Dirofilariasis, more likely to be  Loiasis due to the migratory nature of the mass."
+  },
+  "021": {
+    "question": {
+      "Text": "A 16-year-old boy presents to a clinic in Sri Lanka with a 2-day history of fever, severe body aches and a reduced urine output. He is jaundiced with subconjunctival haemorrhage and has a tender hepatomegaly. He has had contact with a water stream before his ill health.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case27/images%20(1).jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case27/images%20(2).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Leptospirosis (Weil's disease) - The patient presents with acute febrile illness, severe myalgia, oliguria, jaundice, subconjunctival hemorrhage, and hepatomegaly after water stream contact in Sri Lanka. The images show characteristic conjunctival suffusion/hemorrhage and spirochete bacteria (Leptospira) on microscopy. Severe leptospirosis causes acute kidney injury, hepatic dysfunction, and hemorrhagic manifestations.",
+    "answer": "Leptospirosis."
+  },
+  "022": {
+    "question": {
+      "Text": "A 7-Year-Old Girl from West Africa with two progressive cutaneous ulcers linked by an area of altered skin. The movement in the associated joint is restricted. General symptoms are limited to a mildly elevated temperature.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case41/images%20(1).jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case41/images%20(2).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Buruli ulcer (Mycobacterium ulcerans infection) - The child from West Africa presents with two progressive painless cutaneous ulcers linked by altered skin with joint restriction and minimal systemic symptoms. The images show large undermined ulcers with necrotic base and acid-fast bacilli of M. ulcerans. Buruli ulcer causes painless necrotizing skin disease with characteristic undermined edges, often crossing joints and causing contractures, endemic in tropical wetland areas.",
+    "answer": "Buruli Ulcer."
+  },
+  "023": {
+    "question": {
+      "Text": "A 32-Year-Old Woman from Malawi With 3-week history of headache and blurred vision. She is wasted and has a unilateral abducens nerve palsy. She is afebrile and has no neck stiffness.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case35/images%20(1).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Tuberculous meningitis - The wasted patient presents with subacute headache, blurred vision, and unilateral abducens nerve palsy (cranial nerve VI) without fever or neck stiffness in Malawi. The image shows chronic wasting typical of advanced tuberculosis. TB meningitis characteristically presents with cranial nerve palsies (especially III, VI, VII), altered consciousness, and basilar meningitis, often in HIV-endemic areas with insidious onset over weeks.",
+    "answer": "Tuberculous Meningitis or Cerebral Tuberculoma,  however given the Image is not visible to me, another possible diagnosis could be Cryptococcal Meningitis or potentially a Brain Tumor."
+  },
+  "024": {
+    "question": {
+      "Text": "A 35-Year-Old Male Farmer from Peru with a chronic ulcerative lesion and multiple painless nodules on his left hand ",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case34/3-s2.0-B9780128096338210121-f21012-04-9780128199909.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case34/images%20(1).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Sporotrichosis (lymphocutaneous form) - The farmer from Peru presents with chronic ulcerative lesion and multiple painless nodules along lymphatic distribution on the hand. The images show sporotrichoid spread (linear nodular lesions) and cigar-shaped yeast forms of Sporothrix schenckii on microscopy. This dimorphic fungal infection is acquired through traumatic inoculation from soil, plants, or thorns, classically in rose gardeners or farmers.",
+    "answer": "Sporotrichosis."
+  },
+  "025": {
+    "question": {
+      "Text": "A 26-year-old woman presents to a clinic in Malawi with a 2-day history of headache and confusion, with an eyelid drooping on the left side. She is febrile and has a unilateral third nerve palsy",
+      "ImageList": ""
+    },
+    "contexts": "",
+    "ground_truth": "Tuberculous Meningitis - The patient presents with neurological symptoms including third nerve palsy and altered consciousness in Malawi, an endemic area.",
+    "answer": "Cerebral Malaria or Tuberculoma or Bacterial Meningitis or Cavernous Sinus Thrombosis."
+  },
+  "026": {
+    "question": {
+      "Text": "A 35-year-old woman presents to a clinic in Malawi with fever, weight loss, fatigue. She is wasted and severely anaemic and she newly tests HIV-positive.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case29/00000169-0cf2-dbbe-a16f-4ef2c3d60000.webp','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case29/image.jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Visceral leishmaniasis (Kala-azar) - The newly HIV-positive patient presents with chronic fever, weight loss, wasting, and severe anemia in Malawi. The images show massive splenomegaly and amastigotes of Leishmania within macrophages on microscopy. Visceral leishmaniasis is an opportunistic infection in HIV, causing pancytopenia, hepatosplenomegaly, and progressive wasting (kala-azar means 'black fever' in Hindi).",
+    "answer": "Tuberculosis."
+  },
+  "028": {
+    "question": {
+      "Text": "A 33-Year-Old Male Traveller With weight loss, anorexia, malaise, flatulence and abdominal cramping when passing loose stool (four or five episodes per day). The stools have become greasy and foul-smelling, and he has bloating and distension after consumption of milk or milk products.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case49/Giardia-trophozite-stain-Web.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case49/giardia-lamblia-cysts-trophozoite-form-260nw-2385002007.jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Giardiasis - The traveler presents with chronic diarrhea, weight loss, malabsorption symptoms with greasy foul-smelling stools, bloating, and lactose intolerance. The images show characteristic 'face-like' appearance of Giardia lamblia trophozoites with two nuclei and flagella, and oval cysts. Giardiasis causes small intestinal infection with malabsorption, steatorrhea, and lactase deficiency, acquired from contaminated water in endemic areas, often affecting travelers.",
+    "answer": "Giardiasis. Lactose intolerance. Malabsorption syndrome."
+  },
+  "029": {
+    "question": {
+      "Text": "A HIV-positive but not on ART 6-year-old boy presents to a clinic in Malawi withhigh fever, dry cough, coryza, conjunctivitis and impaired level of consciousness together with a fine maculopapular rash on the neck and face.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case31/images%20(1).jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case31/images%20(2).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Severe measles with encephalitis - The HIV-positive child not on ART presents with high fever, cough, coryza, conjunctivitis, altered consciousness, and characteristic maculopapular rash on face and neck. The images show the typical measles rash and Koplik spots (white spots on buccal mucosa). Measles can be severe in immunocompromised children, with high risk of pneumonia and encephalitis causing significant morbidity and mortality.",
+    "answer": "Measles."
+  },
+  "030": {
+    "question": {
+      "Text": "A 23-Year-Old Farmer from Myanmar with a 3-year history of left-sided scrotal swelling. The swelling is non-tender and non-reducible",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case36/images%20(1).jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case36/images%20(2).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Lymphatic filariasis with hydrocele - The farmer from Myanmar presents with chronic non-tender, non-reducible scrotal swelling over 3 years. The images show massive hydrocele and microfilariae of Wuchereria bancrofti on blood smear. Lymphatic filariasis, transmitted by mosquitoes, causes chronic lymphatic obstruction leading to hydrocele (most common manifestation in men), lymphedema, and elephantiasis in endemic tropical regions.",
+    "answer": "Lymphatic filariasis."
+  },
+  "031": {
+    "question": {
+      "Text": "A 52-year-old man presents to a clinic in Vietnam with a 4-day history of fever, headache, myalgia, nausea/vomiting, abdominal pain.He has a history of type 2 diabetes mellitus and poorly controlled hypertension. He has mild abdominal distension, with shifting dullness and a tender 3cm liver edge.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case09/dengue-rashes.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case09/gr1.jpeg']"
+    },
+    "contexts": "",
+    "ground_truth": "Dengue hemorrhagic fever with warning signs - The patient presents with acute febrile illness, abdominal pain, ascites (shifting dullness), and hepatomegaly in Vietnam, a dengue-endemic area. The images show characteristic petechial rash and Aedes mosquito vector. Risk factors include diabetes and hypertension, indicating potential progression to severe dengue.",
+    "answer": "Dengue Hemorrhagic Fever."
+  },
+  "032": {
+    "question": {
+      "Text": "A 16-year-old girl presents to a clinic in Malawi with fever, headache, abdominal pain, jaundice. She has recently delivered a baby",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case13/1800x1200_typhoid_fever_bigbead.webp','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case13/contentItem-8998754-79880609-oaz2ldeg5osce-or.jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Typhoid fever (Enteric fever) - The postpartum patient presents with fever, headache, abdominal pain, and jaundice in Malawi. The images show characteristic rose spots (salmon-colored maculopapular rash) on the trunk and Salmonella typhi bacteria on culture/microscopy. Typhoid can be severe in postpartum women with hepatic involvement causing jaundice.",
+    "answer": "Viral Hepatitis."
+  },
+  "033": {
+    "question": {
+      "Text": "A 55-year-old woman presents to a clinic in Australia W with skin lesions/rash/itching. she has fissures over her wrists and knees. She also looks pale, is clammy and poorly responsive.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case10/8723d590-d6a3-43da-a3d5-90d6a343da28.webp','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case10/article_river_ebeaddf026a611f0ad280bc69174c109-1.png']"
+    },
+    "contexts": "",
+    "ground_truth": "Scabies with crusted (Norwegian) scabies - The patient presents with severe skin fissures in flexural areas, altered mental status, and pallor. The images show thick hyperkeratotic crusted skin lesions and Sarcoptes scabiei mites on microscopy. Crusted scabies is a severe form with massive mite infestation, often seen in immunocompromised or elderly patients.",
+    "answer": "Pemphigus Foliaceus."
+  },
+  "035": {
+    "question": {
+      "Text": "A 31-year-old HIV-positive man presents to a clinic with a 6-week history of fever, chills/sweats, cough, shortness of breath, fatigue and weight loss. He has a history of extensive work-related travel. He is febrile with type 1 respiratory failure ",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case23/a1b0acbf24af968e73601baf969d21_big_gallery.jpeg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case23/images%20(1).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Pneumocystis jirovecii pneumonia (PCP) - The HIV-positive patient presents with subacute respiratory symptoms (6 weeks of fever, cough, dyspnea) and type 1 respiratory failure with extensive travel history. The images show chest X-ray with bilateral interstitial infiltrates and Pneumocystis jirovecii cysts on microscopy with characteristic disc-shaped organisms, the most common opportunistic pneumonia in AIDS patients.",
+    "answer": "Pulmonary Tuberculosis."
+  },
+  "036": {
+    "question": {
+      "Text": "A 62-Year-Old Woman from Ethiopia with difficulties chewing. She has been fit and well in the past.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case40/images%20(1).jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case40/tetanus-1.webp']"
+    },
+    "contexts": "",
+    "ground_truth": "Tetanus - The previously healthy woman from Ethiopia presents with difficulty chewing (trismus/lockjaw). The images show characteristic risus sardonicus (grimacing facial expression from facial muscle spasm) and tetanic spasms. Tetanus is caused by Clostridium tetani exotoxin from wound contamination, causing progressive muscle rigidity and painful spasms starting with masseter muscles (lockjaw), requiring urgent management with antitoxin and supportive care.",
+    "answer": "Trigeminal Neuralgia or Temporomandibular Joint Disorder. However, considering the images and symptoms, a more likely diagnosis is Tetanus infection, given the presence of what appears to be muscle spasms or rigidity in the images, and the symptom of difficulty chewing (lockjaw), which is a classic early sign of tetanus. Therefore, the diagnosis is Tetanus."
+  },
+  "037": {
+    "question": {
+      "Text": "A 32-year-old woman presents to a clinic in Nigeria with fever, headache, jaundice and confusion. She has some fine crepitations at the lung bases. These symptoms developed almost 3 weeks after returning from a visit to rural Nigeria. The patient is of African ethnicity but was born in Europe.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case22/malaria.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case22/images%20(1).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Severe falciparum malaria with complications - The patient presents with fever, jaundice, altered consciousness, and respiratory symptoms 3 weeks after travel to rural Nigeria. The images show Plasmodium falciparum parasites (ring forms and gametocytes) on blood smear and Anopheles mosquito vector. Delayed presentation with jaundice and confusion indicates severe complicated malaria with possible cerebral and hepatic involvement.",
+    "answer": "Malaria."
+  },
+  "038": {
+    "question": {
+      "Text": "A 3-year-old boy presents to a clinic in Laos with a 10-day history of fever and poor appetite. He also has unilateral parotid swelling and purulent discharge from his ear.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case15/images%20(1).jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case15/urn_cambridge.org_id_binary_20181004021412280-0320_S0022215118001391_S0022215118001391_fig1g.jpeg']"
+    },
+    "contexts": "",
+    "ground_truth": "Melioidosis with parotitis and mastoiditis - The patient presents with prolonged fever, unilateral parotid swelling, and purulent otorrhea in Laos, highly endemic for Burkholderia pseudomallei. The images show parotid abscess with ear discharge and bipolar-staining gram-negative bacilli (safety-pin appearance) characteristic of Burkholderia pseudomallei, an important tropical infection in Southeast Asia.",
+    "answer": "Acute Parotitis, likely secondary to Bacterial infection, possibly complicated by otitis media. Alternatively, the symptoms could be indicative of Mumps, given the parotid swelling, but the presence of purulent discharge from the ear leans more towards a bacterial cause."
+  },
+  "039": {
+    "question": {
+      "Text": "A 2-Month-Old Girl from Laos With 3 days of irritability, dyspnoea and grunting. The child has been breastfeeding poorly and was noted to have been grunting, which is a non-specific sign of severe systemic illness in infants. the child is irritable, cyanosed and shows signs of heart failure.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case45/Beriberi.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case45/images%20(1).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Infantile beriberi (thiamine/vitamin B1 deficiency) - The 2-month-old breastfed infant from Laos presents with irritability, dyspnea, grunting, cyanosis, and heart failure. The images show infant with cardiac beriberi features and thiamine chemical structure. Infantile beriberi occurs in breastfed infants of thiamine-deficient mothers (often subsisting on polished rice diets), causing acute cardiac failure (wet beriberi) with tachycardia, cardiomegaly, and pulmonary edema, requiring urgent thiamine replacement.",
+    "answer": "Shoshin Beriberi or more likely, the condition presented is consistent with Beriberi Heart Disease, likely caused by Thiamine (Vitamin B1) deficiency."
+  },
+  "040": {
+    "question": {
+      "Text": "A 4-year-old girl presents to a clinic in Uganda with bad headache, shaking chills, seizure about ten minutes.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case04/ezgif-4-2c35bfb429.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case04/images%20(1).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Cerebral malaria - The patient presents with fever, rigors, seizures and altered consciousness in Uganda, a malaria-endemic region. The images show Plasmodium parasites within red blood cells on blood smear microscopy and Anopheles mosquito vector, consistent with severe Plasmodium falciparum malaria with CNS involvement.",
+    "answer": "Cerebral Malaria."
+  },
+  "044": {
+    "question": {
+      "Text": "A 7-year-old girl presents to a clinic in Peru with fever, myalgia, arthralgia, skin lesions/rash/itching, nausea/vomiting.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case02/images%20(2).jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case02/images%20(1).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Bartonellosis (Carrion's disease/Oroya fever) - The patient presents with acute febrile illness with myalgia and skin lesions in Peru, an endemic region. The images show the characteristic verruga peruana (Peruvian warts) - reddish-purple nodular skin lesions caused by Bartonella bacilliformis transmitted by sandflies.",
+    "answer": "Bartonella bacilliformis infection, also known as Oroya fever or Carrion's disease, is a possible diagnosis. The symptoms and the images are also consistent with Verruga peruana, a manifestation of Bartonella bacilliformis infection."
+  },
+  "045": {
+    "question": {
+      "Text": "A 22-year-old woman presents to a clinic in Bangladesh with acute watery diarrhoea. She is afebrile, with sunken eyes, dry mouth and a scaphoid abdomen. She has recently visited a religious festival where a number of other people who attended have also fallen ill ",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case14/1-s2.0-S0140673603153287-gr2.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case14/p0002.jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Cholera (Vibrio cholerae infection) - The patient presents with severe acute watery diarrhea, signs of severe dehydration (sunken eyes, dry mouth, scaphoid abdomen) after attending a crowded gathering in Bangladesh, an endemic area. The images show characteristic rice-water stool appearance and comma-shaped Vibrio cholerae bacteria on microscopy, typical of epidemic cholera.",
+    "answer": "Cholera."
+  },
+  "048": {
+    "question": {
+      "Text": "A 53-Year-Old Man from Malawi presents to a local hospital with a 3-month history of productive cough, whitish sputum, night sweats and weight loss.  he is newly diagnosed with HIV-infection and advanced immunosuppression.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case33/TB-VICTIM.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case33/images%20(1).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Pulmonary tuberculosis (HIV-associated) - The newly HIV-positive patient with advanced immunosuppression presents with chronic productive cough, night sweats, and significant weight loss over 3 months in Malawi. The images show emaciated patient with wasting and acid-fast bacilli (Mycobacterium tuberculosis) on sputum smear. TB is the leading cause of death in HIV-positive patients and often presents with advanced cavitary disease and severe constitutional symptoms.",
+    "answer": "Tuberculosis."
+  },
+  "049": {
+    "question": {
+      "Text": "A 30-Year-Old Male Chinese with 7 days of fever, chills, headache and a dry cough after receiving a 5-day course of antimalarial treatment with artemether for falciparum. The fever persisted and he developed jaundice",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case39/images%20(1).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Plasmodium knowlesi malaria - The Chinese patient presents with persistent fever, jaundice, and dry cough despite artemether treatment for falciparum malaria. The image shows Plasmodium knowlesi parasites on blood smear with characteristic band forms. P. knowlesi is a simian malaria that can infect humans, causes quotidian fever (24-hour cycle), and can be misidentified as P. falciparum or P. malariae, potentially leading to treatment failure and severe disease.",
+    "answer": "Viral Hepatitis or Severe Malaria with liver dysfunction or possibly artemether-induced liver injury, but more likely is  Leptospirosis or  septicemia, however the most likely diagnosis is Severe Malaria."
+  },
+  "050": {
+    "question": {
+      "Text": "A 45-Year-Old Man from Sri Lanka With fever, headache, body aches and constant right-sided abdominal pain for a week. He also has a dry cough. His past medical history is unremarkable, but he consumes local alcohol. He is febrile with tender hepatomegaly and intercostal tenderness on the right.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case46/Liver_containing_amebic_abscess%2C_gross_pathology_3MG0042_lores.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case46/images%20(1).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Amoebic liver abscess - The patient from Sri Lanka with alcohol consumption presents with fever, right upper quadrant pain, tender hepatomegaly, and dry cough. The images show large liver abscess with 'anchovy paste' appearance on gross pathology and Entamoeba histolytica trophozoites with ingested RBCs. Amoebic liver abscess typically presents with right lobe involvement, point tenderness, and may have pleuropulmonary symptoms from diaphragmatic irritation.",
+    "answer": "Amebic Liver Abscess."
+  },
+  "051": {
+    "question": {
+      "Text": "A 7-Year-Old Girl from South Sudan With 4-week history of undulating fever, chills and convulsions. Over time she has developed progressive anorexia, dry cough, chest pain, joint and back pain.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case44/2-Figure1-1.png','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case44/images%20(1).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Brucellosis (undulant fever) - The child from South Sudan presents with 4-week history of undulating fever, chills, convulsions, and multiple systemic symptoms including chest pain and joint pain. The images show growth of Brucella species on culture and cattle (reservoir hosts). Brucellosis is a zoonotic infection from unpasteurized dairy or livestock contact, causing chronic relapsing fever with multisystem involvement including pneumonia, arthritis, and occasionally neurobrucellosis.",
+    "answer": "Visceral Leishmaniasis (Kala-azar) or Malaria or Typhoid Fever or Tuberculosis."
+  },
+  "053": {
+    "question": {
+      "Text": "A 67-year-old woman presents to a clinic with palpitations and transient subcutaneous swellings for the past year.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case28/images%20(1).jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case28/images%20(2).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Loiasis (Loa loa infection/African eye worm) - The expatriate patient presents with palpitations and migratory transient subcutaneous swellings (Calabar swellings). The images show the adult worm migrating across the conjunctiva (eye worm) and microfilariae on blood smear. Loa loa is transmitted by deer flies in Central Africa, causing characteristic migratory angioedema and occasional cardiac symptoms from microfilaremia.",
+    "answer": "Hereditary Angioedema."
+  },
+  "054": {
+    "question": {
+      "Text": "A 34-year-old man from Thailand presents with a 2-week history of fever, weight loss, fatigue/malaise. The patient has a generalized non-pruritic rash, predominantly on his face and trunk, which consists of small umbilicated papules",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case17/12879_2019_4351_Fig1_HTML.png','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case17/gr4_lrg.jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Disseminated penicilliosis (Talaromyces marneffei infection) - The patient presents with prolonged fever, weight loss, and characteristic umbilicated papular rash on face and trunk in Thailand, endemic for this AIDS-defining illness. The images show multiple umbilicated skin lesions and intracellular yeast forms with central septation (resembling ping-pong balls) on microscopy, pathognomonic for Talaromyces marneffei.",
+    "answer": "Penicilliosis or more likely the disease is  Talaromycosis (formerly known as Penicilliosis) or HIV/AIDS with secondary syphilis are less likely, however the most likely diagnosis is Talaromycosis due to the geographical location (Thailand), symptoms, and the presence of umbilicated papules which is characteristic for this condition. Talaromycosis is an opportunistic infection caused by Talaromyces marneffei."
+  },
+  "055": {
+    "question": {
+      "Text": "A 28-year-old man presents to a clinic in Malawi with fever, shortness of breath, nausea/vomiting, abdominal pain. He reports orthopnoea and paroxysmal nocturnal dyspnoea, bilateral flank pain in the past days, which is continuous and dull ",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case07/0256-4947.webp','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case07/gr1.jpeg']"
+    },
+    "contexts": "",
+    "ground_truth": "Schistosomiasis (Bilharzia) with cardiac and renal complications - The patient presents with heart failure symptoms and bilateral flank pain in Malawi, a schistosomiasis-endemic area. The images show Schistosoma eggs with characteristic lateral spine on microscopy and the parasite lifecycle, causing chronic granulomatous disease affecting multiple organ systems.",
+    "answer": "Sickle Cell Disease."
+  },
+  "056": {
+    "question": {
+      "Text": "A 29-Year-Old Woman from Malawi with Confusion, watery diarrhoea and a rash that mainly seems to affect the sun-exposed areas of the skin. The family appear to be poor villagers; they live on an imbalanced diet.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case37/images%20(1).jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case37/images%20(2).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Pellagra (niacin/vitamin B3 deficiency) - The malnourished patient presents with the classic triad of dermatitis, diarrhea, and dementia (the 3 D's) with photosensitive rash on sun-exposed areas in Malawi. The images show characteristic hyperpigmented, scaly dermatitis in sun-exposed distribution (Casal's necklace) and the chemical structure of niacin. Pellagra occurs in populations dependent on corn/maize diets poor in niacin and tryptophan.",
+    "answer": "Pellagra."
+  },
+  "057": {
+    "question": {
+      "Text": "A 72-year-old man presents to a clinic in Laos with extensive, painful verrucous skin lesions on his left foot and lower leg. Ten years prior, he had a leech bite on the dorsum of his left foot. Three days before admission his ankle became painful and swollen.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case25/1048885-1092695-2728.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case25/images%20(1).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Chromoblastomycosis - The elderly patient presents with extensive chronic verrucous (warty) skin lesions on the lower extremity following a leech bite 10 years ago in Laos. The images show cauliflower-like verrucous plaques and characteristic copper-colored sclerotic cells (medlar bodies) on microscopy, typical of this chronic subcutaneous fungal infection caused by dematiaceous fungi from traumatic inoculation.",
+    "answer": "Chromoblastomycosis."
+  },
+  "058": {
+    "question": {
+      "Text": "A 25-year-old woman. known to be HIV-positive and on ART, presents to a clinic in Malaw with confusion, high fever and convulsions on admission. Pupils are equal and reactive with photophobia; the neck is stiff and there is no rash.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case16/OSC_Microbio_26_02_Brains.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case16/gr1_lrg.jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Cryptococcal meningitis - The HIV-positive patient on ART presents with acute meningitis (fever, confusion, seizures, neck stiffness, photophobia) in Malawi. The images show encapsulated yeast cells with India ink stain and budding Cryptococcus neoformans organisms, the most common cause of fungal meningitis in HIV-positive patients in sub-Saharan Africa.",
+    "answer": "Cryptococcal Meningitis."
+  },
+  "059": {
+    "question": {
+      "Text": "An HIV positive and on ART 32-Year-Old Man from Malawi With 6-week history of productive cough and chest pain associated with weight loss, fevers and night sweats. The patient had been treated for acid-fast bacilli (AFB) sputum smearnegative pulmonary tuberculosis 12 years ago.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case47/12879_2016_1824_Fig1_HTML.png']"
+    },
+    "contexts": "",
+    "ground_truth": "Pulmonary aspergilloma (fungus ball) - The HIV-positive patient on ART presents with chronic productive cough, chest pain, weight loss, and constitutional symptoms with prior TB treatment history. The image shows chest imaging with characteristic round intracavitary mass (fungus ball or mycetoma) with air crescent sign, typical of Aspergillus colonizing pre-existing lung cavity (from prior tuberculosis), which can cause hemoptysis and chronic respiratory symptoms.",
+    "answer": "Tuberculosis or Pulmonary cryptococcosis or Non-Tuberculous Mycobacterial (NTM) infection, or  Lung Cancer or Kaposi's Sarcoma."
+  },
+  "060": {
+    "question": {
+      "Text": "A 35-year-old Caucasian man presents to a clinic with fever, rash/lesion on his neck associated with massive neck swelling and fatigue. The patient recalls a break in the skin at the site of the lesion 3 days before.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case21/images%20(2).jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case21/images%20(1).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Cutaneous anthrax - The patient presents with a skin lesion that developed from a skin break, associated with massive neck swelling (malignant edema), fever, and fatigue. The images show the characteristic painless black eschar (necrotic ulcer) with surrounding edema and Bacillus anthracis bacteria on microscopy, typical of cutaneous anthrax from spore-forming bacteria exposure.",
+    "answer": "Anthrax."
+  },
+  "061": {
+    "question": {
+      "Text": "A 31-Year-Old Woman from Tanzania With an acute-onset inability to walk. She had a febrile illness 3 weeks prior, but has otherwise been well.",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case48/images%20(1).jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case48/images%20(2).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Guillain-Barr\u00e9 syndrome (acute inflammatory demyelinating polyradiculoneuropathy) - The woman from Tanzania presents with acute-onset inability to walk following a febrile illness 3 weeks prior. The images show patient with flaccid paralysis and nerve conduction study findings. GBS is an acute autoimmune polyradiculoneuropathy causing ascending paralysis, typically triggered by preceding infection (Campylobacter, viral), characterized by areflexia, progressive weakness, and potential respiratory failure requiring monitoring.",
+    "answer": "Guillain-Barr\u00e9 Syndrome."
+  },
+  "062": {
+    "question": {
+      "Text": "A 26-year-old German student presents to the clinic because of an itchy swelling on her left leg. The skin surrounding the swelling is slightly hyperaemic. The boil is covered by a blackish scab",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case08/images%20(1).jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case08/Miasis_human.jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Furuncular myiasis (Tumbu fly/Cordylobia anthropophaga infestation) - The patient presents with a pruritic boil-like lesion with central punctum. The images show a furuncular lesion with central breathing hole and fly larvae (maggots) being extracted from subcutaneous tissue, typical of botfly larvae infestation acquired from contaminated soil or clothing.",
+    "answer": "Myiasis"
+  },
+  "063": {
+    "question": {
+      "Text": "A 12-year-old boy from a pastoralist community in an arid area presents to a clinic in Rural Kenya with a 2-month history of painful, watery, red eyes. He has a history of using traditional eye medicine. ",
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case30/gr1_lrg.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case30/images%20(1).jpg']"
+    },
+    "contexts": "",
+    "ground_truth": "Trachoma (Chlamydia trachomatis infection) - The child from a pastoralist community presents with chronic painful conjunctivitis with history of traditional eye medicine use in rural Kenya. The images show follicular conjunctivitis with scarring, trichiasis (inturned eyelashes), and Chlamydia trachomatis inclusions on microscopy. Trachoma is the leading infectious cause of blindness worldwide, endemic in areas with poor sanitation and water access.",
+    "answer": "Trachoma."
+  }
+}
