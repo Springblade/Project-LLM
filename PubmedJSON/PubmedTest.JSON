@@ -2,7 +2,7 @@
   "1": {
     "question": {
       "Text": "Do lassa and Marburg viruses elicit distinct host transcriptional responses early after infection?",
-      "ImageList": "1,2"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/1.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/2.jpg']"
     },
     "ground_truth": "These results suggest that host transcriptional signatures are correlated with specific viral infections, and that they can be used to identify highly pathogenic viruses during the early stages of disease, before standard detection methods become effective.",
     "answer": ""
@@ -10,7 +10,7 @@
   "2": {
     "question": {
       "Text": "Does sGP serve as a structural protein in Ebola virus infection?",
-      "ImageList": "3"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/3.jpg']"
     },
     "ground_truth": "ZEBOV sGP can substitute for GP(1), forming a sGP-GP(2) complex and conferring infectivity. Our studies suggest a novel role for sGP as a structural protein.",
     "answer": ""
@@ -18,7 +18,7 @@
   "3": {
     "question": {
       "Text": "Does acute immobilization stress induce clinical and neuroimmunological alterations in experimental murine cutaneous leishmaniasis?",
-      "ImageList": "4"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/4.jpg']"
     },
     "ground_truth": "Acute immobilization stress induces an immunosuppressive state that further favours Leishmania invasion in susceptible animals.",
     "answer": ""
@@ -26,7 +26,7 @@
   "4": {
     "question": {
       "Text": "Does the diagnostic value of cerebrospinal fluid chemistry result in childhood tuberculous meningitis?",
-      "ImageList": "5"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/5.jpg']"
     },
     "ground_truth": "Absolute CSF glucose values of <2.2 mmol/L and protein values of >1 g/L differentiated between TBM and non-bacterial meningitis with good specificity, although sensitivity was poor. A CSF to serum glucose ratio is more informative than the absolute value.",
     "answer": ""
@@ -34,7 +34,7 @@
   "5": {
     "question": {
       "Text": "Does a functional single-nucleotide polymorphism in the CR1 promoter region contribute to protection against cerebral malaria?",
-      "ImageList": "6"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/6.png']"
     },
     "ground_truth": "We identified a CR1 promoter allele, associated with higher E-CR1 expression, that conferred protection against cerebral malaria. Previous studies have shown that the rate of clearance of immune complexes (ICs) from the circulation is related to the E-CR1 level. These results lead to the hypothesis that the clearance of ICs regulated by E-CR1 therefore plays a crucial role in the pathogenesis of cerebral malaria.",
     "answer": ""
@@ -42,7 +42,7 @@
   "6": {
     "question": {
       "Text": "Is all that blood is not schistosomiasis : experiences with reagent strip testing for urogenital schistosomiasis with special consideration to very-low prevalence settings?",
-      "ImageList": "7"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/7.jpg']"
     },
     "ground_truth": "Reagent strip testing for microhaematuria remains a good proxy for urogenital schistosomiasis, but implications of test results and scope of application differ depending on the setting in which reagent strips are employed. In very-low prevalence settings, microhaematuria is an unstable proxy for urogenital schistosomiasis and treatment decision should not be based on reagent strip test results alone. Our findings underscore the need for highly accurate diagnostic tools for settings targeted for elimination of urogenital schistosomiasis.",
     "answer": ""
@@ -50,7 +50,7 @@
   "7": {
     "question": {
       "Text": "Is lower expression of TLR2 and SOCS-3 associated with Schistosoma haematobium infection and with lower risk for allergic reactivity in children living in a rural area in Ghana?",
-      "ImageList": "8"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/8.png']"
     },
     "ground_truth": "S. haematobium infections modulate the expression of genes of the innate immune system (TLR2 and SOCS-3); these are genes that are associated with increased allergic inflammatory processes, providing a molecular link between the negative association of this infection and atopy in rural children in Ghana.",
     "answer": ""
@@ -58,7 +58,7 @@
   "8": {
     "question": {
       "Text": "Does dengue virus induce apoptosis in SH-SY5Y human neuroblastoma cells?",
-      "ImageList": "9"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/9.jpg']"
     },
     "ground_truth": "These results as a whole suggest that the upregulation of TNF-α could be part of the process that induces cell damage and death in cases of dengue encephalitis.",
     "answer": ""
@@ -66,7 +66,7 @@
   "9": {
     "question": {
       "Text": "Does dengue virus regulate the expression of hemostasis-related molecules in human vein endothelial cells?",
-      "ImageList": "10"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/10.jpg']"
     },
     "ground_truth": "The changes above may play an important role in the development of Dengue hemorrhagic fever and Dengue shock syndrome.",
     "answer": ""
@@ -74,7 +74,7 @@
   "10": {
     "question": {
       "Text": "Does sarcoptes scabiei infestation alter the stability of ectoparasite communities?",
-      "ImageList": "11"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/11.jpg']"
     },
     "ground_truth": "Even though we show that ectoparasite burden is correlated with S. scabiei infestation, off-host environment and host sex, the species response to S. scabiei infestation and climate seem to be highly variable and influenced by ectoparasite life-history traits. Ectoparasite communities also appear resilient to perturbations which is in agreement with what was previously reported for endoparasites. Future refinement of sample collection and the incorporation of ecological and epidemiological-related variables may allow us to establish causal effects and deepen the knowledge about the mechanisms and consequences of ectoparasite interactions.",
     "answer": ""
@@ -82,7 +82,7 @@
   "11": {
     "question": {
       "Text": "Is pott 's paraplegia secondary to Scrofuloderma a rare association?",
-      "ImageList": "12"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/12.jpg']"
     },
     "ground_truth": "Pott's paraplegia can occur secondary to Scrofuloderma and it can be managed by multidrug antitubercular therapy and minimally invasive surgical procedure.",
     "answer": ""
@@ -90,7 +90,7 @@
   "12": {
     "question": {
       "Text": "Do haemophilus ducreyi Cutaneous Ulcer Strains Are Nearly Identical to Class I Genital Ulcer Strains?",
-      "ImageList": "13"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/13.jpg']"
     },
     "ground_truth": "These data suggest that CU strains are derivatives of class I strains that were not recognized until recently. These findings require confirmation by analysis of CU strains from other regions.",
     "answer": ""
@@ -98,7 +98,7 @@
   "13": {
     "question": {
       "Text": "Does comparative genomic analysis between typhoidal and non-typhoidal Salmonella serovars reveal typhoid-specific protein families?",
-      "ImageList": "14"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/14.jpg']"
     },
     "ground_truth": "By comprehensive genomic comparisons, we identified protein families specific to the human typhoidal serovars, which will greatly facilitate investigations on typhoid pathogenesis.",
     "answer": ""
@@ -106,7 +106,7 @@
   "14": {
     "question": {
       "Text": "Does rpoE promote invasion and intracellular survival by regulating SPI-1 and SPI-2 in Salmonella enterica serovar Typhi?",
-      "ImageList": "15"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/15.jpg']"
     },
     "ground_truth": "RpoE may promote invasion and intracellular survival by regulating the expression of SPI-1 and SPI-2.",
     "answer": ""
@@ -114,7 +114,7 @@
   "15": {
     "question": {
       "Text": "Does virulence regulator AphB enhance toxR transcription in Vibrio cholerae?",
-      "ImageList": "16"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/16.png']"
     },
     "ground_truth": "Our data indicate that V. cholerae possesses an additional regulatory loop that use AphB to activate the expression of two virulence regulators, ToxR and TcpP, which together control the expression of the master virulence regulator ToxT.",
     "answer": ""
@@ -122,7 +122,7 @@
   "16": {
     "question": {
       "Text": "Is overexpression of activated protein C detrimental during severe experimental gram-negative sepsis ( melioidosis )?",
-      "ImageList": "17"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/17.jpg']"
     },
     "ground_truth": "Constitutively enhanced expression of activated protein C impairs host defense during severe Gram-negative sepsis caused by B. pseudomallei.",
     "answer": ""
@@ -130,7 +130,7 @@
   "17": {
     "question": {
       "Text": "Are delays in the administration of antibiotics associated with mortality from adult acute bacterial meningitis?",
-      "ImageList": "18"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/18.jpg']"
     },
     "ground_truth": "There is an independent incremental association between delays in administrating antibiotics and mortality from adult acute bacterial meningitis. Inappropriate diagnostic-treatment sequences were significant predictors of such treatment delays.",
     "answer": ""
@@ -138,7 +138,7 @@
   "18": {
     "question": {
       "Text": "Does phenotypic Characterization and Antibiogram of CSF isolate in Acute Bacterial Meningitis?",
-      "ImageList": "19"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/19.png']"
     },
     "ground_truth": "Simple, rapid, inexpensive tests like gram staining remain significant means for diagnosis of ABM in developing countries. LAT for pneumococcal antigen should be performed first, since Streptococcus pneumoniae remains the major aetiological agent of ABM, both in adults and children. The final diagnosis of ABM depends upon a comprehensive analysis of CSF smears, cultures, LAT, cytological, biochemical and clinical findings of the cases, and a single test or parameter cannot be used to decide the course of management in the patients. However, empirical therapy is advocated, considering the potentially high rate of mortality in these patients.",
     "answer": ""
@@ -146,7 +146,7 @@
   "19": {
     "question": {
       "Text": "Is the Onchocerca volvulus cysteine proteinase inhibitor , Ov-CPI-2 , a target of protective antibody response that increases with age?",
-      "ImageList": "20"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/20.png']"
     },
     "ground_truth": "These results add to the knowledge of protective immunity in onchocerciasis and support the possible involvement of anti-Ov-CPI-2 IgG1 and/or IgG3 cytophilic antibodies in the development of protective immunity in the PI and the INF. The results further support the consideration of Ov-CPI-2 as a leading target for an anti-L3 vaccine.",
     "answer": ""
@@ -154,7 +154,7 @@
   "20": {
     "question": {
       "Text": "Are major retinal cell components recognized by onchocerciasis sera associated with the cell surface and nucleoli?",
-      "ImageList": "21"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/21.png']"
     },
     "ground_truth": "Major epitopes for onchocerciasis anti-retinal autoantibodies are associated with the surface and nucleolus components of retinal cells. Interaction of the onchocerciasis antibodies with the retinal cell surface molecules may play an important role in the development of ocular diseases initiated by the damage of retinal cells. Furthermore, the finding that the cellular components recognized by onchocerciasis sera do not colocalize with calreticulin, taken together with the observation of lack of recognition of recombinant calreticulin by these sera on Western blots, suggests that calreticulin is not a major onchocerciasis autoantigen.",
     "answer": ""
@@ -162,7 +162,7 @@
   "21": {
     "question": {
       "Text": "Does osteopontin be Upregulated in Human and Murine Acute Schistosomiasis Mansoni?",
-      "ImageList": "22"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/22.png']"
     },
     "ground_truth": "S. mansoni egg antigens induce the production of OPN by macrophages in the necrotic-exudative granulomas characteristic of acute schistosomiasis mansoni. Circulating OPN levels are upregulated in human and murine acute schistosomiasis and could be a non-invasive biomarker of this form of disease.",
     "answer": ""
@@ -170,7 +170,7 @@
   "22": {
     "question": {
       "Text": "Does anthrax lethal toxin suppress high glucose induced VEGF over secretion through a post-translational mechanism?",
-      "ImageList": "23"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/23.jpg']"
     },
     "ground_truth": "LeTx suppressed high glucose induced VEGF over secretion in the ARPE cells, mainly through a post-translational mechanism.",
     "answer": ""
@@ -178,7 +178,7 @@
   "23": {
     "question": {
       "Text": "Do plasma levels of Galectin-9 reflect disease severity in malaria infection?",
-      "ImageList": "24"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/24.png']"
     },
     "ground_truth": "Gal-9 is released during acute malaria, and reflects its severity. This elevation of Gal-9 in acute malaria infection raises the possibility of its role in termination of the immune response by binding to Tim-3, a receptor of Gal-9.",
     "answer": ""
@@ -186,7 +186,7 @@
   "24": {
     "question": {
       "Text": "Is pneumocystis colonisation common among hospitalised HIV infected patients with non-Pneumocystis pneumonia?",
-      "ImageList": "25"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/25.png']"
     },
     "ground_truth": "The majority of hospitalised HIV infected patients with non-PCP pneumonia are colonised with Pneumocystis. Failure to use co-trimoxazole prophylaxis and severe immunosuppression are associated with an increase in the odds of colonisation. Pneumocystis colonisation among hospitalised patients does not commonly lead to PCP.",
     "answer": ""
@@ -194,7 +194,7 @@
   "25": {
     "question": {
       "Text": "Are high daily doses of trimethoprim/sulfamethoxazole an independent risk factor for adverse reactions in patients with pneumocystis pneumonia and AIDS?",
-      "ImageList": "26"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/26.jpg']"
     },
     "ground_truth": "We found a high incidence of ADRs among patients with PJP and AIDS treated with TMP/SMX, and most involved the skin and liver. A daily dose of ≥ 16 mg/kg of TMP/SMX and age 34 years were independent risk factors for ADRs.",
     "answer": ""
@@ -202,7 +202,7 @@
   "26": {
     "question": {
       "Text": "Does superficial warming and cooling of the leg affect walking speed and neuromuscular impairments in people with spastic paraparesis?",
-      "ImageList": "27"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/27.jpg']"
     },
     "ground_truth": "Superficial cooling significantly reduced walking speed for people with HSSP. Temperature changes were associated with changes in neuromuscular impairments for both people with spastic paraparesis and controls. This study does not support the use of localised cooling in rehabilitation for people with spastic paraparesis as reported in other neurological conditions. Rehabilitation interventions that help prevent heat loss (insulation) or improve limb temperature via passive or active means, particularly when the legs and/or environment are cool, may benefit people with spastic paraparesis.",
     "answer": ""
@@ -210,7 +210,7 @@
   "27": {
     "question": {
       "Text": "Are [ Lack of air conditioning and mycotoxin poisoning basic co-factors in tropical spastic paraparesis ]?",
-      "ImageList": "28"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/28.png']"
     },
     "ground_truth": "The fact that mycotoxins found in the urine samples of these patients are immunosuppressors and demyelinating allow us to suggest that these toxins could be the most important environmental cofactors leading to the susceptible people to the clinically established disease.",
     "answer": ""
@@ -218,7 +218,7 @@
   "28": {
     "question": {
       "Text": "Is hyperglycemia a risk factor for high-grade envenomations after European viper bites ( Vipera spp . ) in children?",
-      "ImageList": "29"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/29.png']"
     },
     "ground_truth": "We have confirmed a potential link between initial hyperglycemia and the risk of progression to high-grade envenomation as well as its association with other published predictive factors.",
     "answer": ""
@@ -226,7 +226,7 @@
   "29": {
     "question": {
       "Text": "Do leptospiral hemolysins induce proinflammatory cytokines through Toll-like receptor 2-and 4-mediated JNK and NF-κB signaling pathways?",
-      "ImageList": "30"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/30.png']"
     },
     "ground_truth": "Our findings demonstrate that L. interrogans secretes many hemolysins that function as powerful inducers of proinflammatory cytokines through both TLR2-and TLR4-dependent JNK and NF-κB pathways.",
     "answer": ""
@@ -234,7 +234,7 @@
   "30": {
     "question": {
       "Text": "Is unsuspected leptospirosis a cause of acute febrile illness in Nicaragua?",
-      "ImageList": "31"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/31.jpg']"
     },
     "ground_truth": "Leptospirosis is a common (6.3%) but unrecognized cause of acute febrile illness in Nicaragua. Rapid point-of-care tests to support early diagnosis and treatment as well as tests to support population-based studies to delineate the epidemiology, incidence, and clinical spectrum of leptospirosis, both ideally pathogen-based, are needed.",
     "answer": ""
@@ -242,7 +242,7 @@
   "31": {
     "question": {
       "Text": "Do eosinophil-associated processes underlie differences in clinical presentation of loiasis between temporary residents and those indigenous to Loa-endemic areas?",
-      "ImageList": "32"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/32.jpg']"
     },
     "ground_truth": "These data support the hypothesis that differing eosinophil-associated responses to the parasite may be responsible for the marked differences in clinical presentations between TR and END populations with loiasis.",
     "answer": ""
@@ -250,7 +250,7 @@
   "32": {
     "question": {
       "Text": "Does comparative genomic analysis between typhoidal and non-typhoidal Salmonella serovars reveal typhoid-specific protein families?",
-      "ImageList": "33"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/33.jpg']"
     },
     "ground_truth": "By comprehensive genomic comparisons, we identified protein families specific to the human typhoidal serovars, which will greatly facilitate investigations on typhoid pathogenesis.",
     "answer": ""
@@ -258,7 +258,7 @@
   "33": {
     "question": {
       "Text": "Is prevalence of Chlamydia trachomatis in urine of male patients with ankylosing spondylitis increased?",
-      "ImageList": "34"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/34.jpg']"
     },
     "ground_truth": "The prevalence of Chlamydia trachomatis infections, as detected by commercially available DNA amplification assays in urine specimens, in AS patients is not higher compared with male controls of the same age. However, there seems to be an association between specific antibodies to C trachomatis and AAU.",
     "answer": ""
@@ -266,7 +266,7 @@
   "34": {
     "question": {
       "Text": "Does molecular epidemiology of human sporotrichosis in Venezuela reveal high frequency of Sporothrix globosa?",
-      "ImageList": "35"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/35.jpg']"
     },
     "ground_truth": "Our data suggest that sporotrichosis various clinical forms might be related to genetic diversity of isolates, and possibly, to diverse virulence profiles previously reported in the S. schenckii species complex. Sporothrix globosa was found to be the causative agent of 30% of sporotrichosis for the Venezuelan cases re-examined, the highest frequency of this species so far reported in the Americas. The high genetic variability presented by S. schenckii s. str. indicates that species distinction based on phenotypic key features could be a challenging and uncertain task; molecular identification should be always employed.",
     "answer": ""
@@ -274,7 +274,7 @@
   "35": {
     "question": {
       "Text": "Are very low levels of 25-hydroxyvitamin D associated with immunologic changes or clinical outcome in South African patients with HIV-associated cryptococcal meningitis?",
-      "ImageList": "36"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/36.png']"
     },
     "ground_truth": "Vitamin D deficiency does not predispose to the development of CM, or lead to impaired immune responses or microbiological clearance in HIV-infected patients with CM.",
     "answer": ""
@@ -282,7 +282,7 @@
   "36": {
     "question": {
       "Text": "Does standardized electrolyte supplementation and fluid management improve survival during amphotericin therapy for cryptococcal meningitis in resource-limited settings?",
-      "ImageList": "37"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/37.jpg']"
     },
     "ground_truth": "Improved survival was seen in a resource-limited setting with proactive fluid and electrolyte management (K(+), Mg(2+)), as part of comprehensive amphotericin-based cryptococcal therapy.",
     "answer": ""
@@ -290,7 +290,7 @@
   "37": {
     "question": {
       "Text": "Are small calcified lesions suggestive of neurocysticercosis associated with mesial temporal sclerosis?",
-      "ImageList": "38"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/38.jpg']"
     },
     "ground_truth": "After controlling for confounding factors, we found an independent association between NC calcified lesions and MTS.",
     "answer": ""
@@ -298,7 +298,7 @@
   "38": {
     "question": {
       "Text": "Does tetanus toxin reduce local and descending regulation of the H-reflex?",
-      "ImageList": "39"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/39.jpg']"
     },
     "ground_truth": "Tetanus toxin increased the amplitude of the Hwave and reduced the normal depression of H-wave amplitude that is associated with closely timed stimuli, two phenomena that could contribute to hyperactivity of the stretch reflex.",
     "answer": ""
@@ -306,7 +306,7 @@
   "39": {
     "question": {
       "Text": "Does tetanus toxin preserve skeletal muscle contractile force and size during limb immobilization?",
-      "ImageList": "39"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/39.jpg']"
     },
     "ground_truth": "Tetanus toxin prevented common signs of muscle atrophy and may become a useful adjunct to current rehabilitation strategies.",
     "answer": ""
@@ -314,7 +314,7 @@
   "40": {
     "question": {
       "Text": "Does bactericidal activity predict sterilizing activity : the case of rifapentine in the murine model of Mycobacterium ulcerans disease?",
-      "ImageList": "40"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/40.jpg']"
     },
     "ground_truth": "The better bactericidal activity of daily STR+RIF and especially of STR+RPT did not translate into better prevention of relapse, possibly because relapse-freecure after treatment of Buruli ulcer is more related to the reversal of mycolactone-induced local immunodeficiency by drug treatment rather than to the bactericidal potency of drugs.",
     "answer": ""
@@ -322,7 +322,7 @@
   "41": {
     "question": {
       "Text": "Does human Papilloma Virus Infection Predict Response to Interferon Therapy in Ocular Surface Squamous Neoplasia?",
-      "ImageList": "41"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/41.jpg']"
     },
     "ground_truth": "The presence of HPV in OSSN seems to be more common in lesions located in the nonexposed, superior limbus. Human papilloma virus presence does not seem to be required for a favorable response to interferon therapy.",
     "answer": ""
@@ -330,7 +330,7 @@
   "42": {
     "question": {
       "Text": "Does microbial translocation induce an intense proinflammatory response in patients with visceral leishmaniasis and HIV type 1 coinfection?",
-      "ImageList": "42"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/42.jpg']"
     },
     "ground_truth": "LPS levels along with the immune consequences of Leishmania infection were associated with elevated cellular activation in coinfected patients. As a consequence, secondary chemoprophylaxis for leishmaniasis or even the use of antiinflammatory drugs or antibiotics may be considered for improving the prognosis of AVL/HIV.",
     "answer": ""
@@ -338,7 +338,7 @@
   "43": {
     "question": {
       "Text": "Do specific MRI findings help distinguish acute transverse myelitis of Neuromyelitis Optica from spinal cord infarction?",
-      "ImageList": "43"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/43.jpg']"
     },
     "ground_truth": "Along with patient demographic characteristics, lesion features on MRI, including lesion location, extension to pial border and presence of 'bright spotty lesion' can help differentiate acute myelitis of NMO from SCI in the acute setting.",
     "answer": ""
@@ -346,7 +346,7 @@
   "44": {
     "question": {
       "Text": "Does asymptomatic giardiasis affect iron absorption in children with iron deficiency anemia?",
-      "ImageList": "44"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/44.jpg']"
     },
     "ground_truth": "Asymptomatic giardiasis did not affect the intestinal absorption of iron and the hemoglobin response to oral iron therapy in iron-deficient anemic children.",
     "answer": ""
@@ -354,7 +354,7 @@
   "45": {
     "question": {
       "Text": "Does hyperintense cortical signal on magnetic resonance imaging reflect focal leukocortical encephalitis and seizure risk in progressive multifocal leukoencephalopathy?",
-      "ImageList": "45"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/45.jpg']"
     },
     "ground_truth": "Seizures are a frequent complication in PML. HCS is associated with seizures and IRIS, and correlates histologically with JCV focal leukocortical encephalitis.",
     "answer": ""
@@ -362,7 +362,7 @@
   "46": {
     "question": {
       "Text": "Does the relevance of tick bite to the production of IgE antibodies to the mammalian oligosaccharide galactose-α-1,3-galactose?",
-      "ImageList": "46"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/46.jpg']"
     },
     "ground_truth": "The results presented here provide evidence that tick bites are a cause, possibly the only cause, of IgE specific for alpha-gal in this area of the United States. Both the number of subjects becoming sensitized and the titer of IgE antibodies to alpha-gal are striking. Here we report the first example of a response to an ectoparasite giving rise to an important form of food allergy.",
     "answer": ""
@@ -370,7 +370,7 @@
   "47": {
     "question": {
       "Text": "Is fibrosing mediastinitis complicating prior histoplasmosis associated with human leukocyte antigen DQB1*04:02 - a case control study?",
-      "ImageList": "47"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/47.jpg']"
     },
     "ground_truth": "HLA-DQB1*04:02 is associated with PHFM, which supports the premise that an aberrant host immune response contributes to the development of PHFM.",
     "answer": ""
@@ -378,7 +378,7 @@
   "48": {
     "question": {
       "Text": "Is hepatic impairment induced by scrub typhus associated with new onset of renal dysfunction?",
-      "ImageList": "48"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/48.jpg']"
     },
     "ground_truth": "The degree of hepatic impairment induced by scrub typhus is associated with new onset of renal dysfunction.",
     "answer": ""
@@ -386,7 +386,7 @@
   "49": {
     "question": {
       "Text": "Is thrombotic thrombocytopenic purpura in a patient with Brucella infection highly responsive to combined plasma infusion and antimicrobial therapy?",
-      "ImageList": "49"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/49.jpg']"
     },
     "ground_truth": "This report shows that therapy of underlying infection together with plasma infusion may be a successful treatment option for brucellosis-induced TTP.",
     "answer": ""
@@ -394,7 +394,7 @@
   "50": {
     "question": {
       "Text": "Do spatial epidemiology and serologic cohorts increase the early detection of leprosy?",
-      "ImageList": "50"
+      "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/PubmedJSON/50.jpg']"
     },
     "ground_truth": "Targeted screening involving school-based surveillance planned using results obtained by spatial analysis and targeted household and individual continuous surveillance based on serologic data should be applied to increase the early detection of new leprosy cases.",
     "answer": ""
