@@ -1,0 +1,7 @@
+{
+    "Question": {
+      "Text": "A 16-year-old girl presents to a clinic in Malawi with fever, headache, abdominal pain, jaundice. She has recently delivered a baby",
+      "ImageList" : "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case13/1800x1200_typhoid_fever_bigbead.webp','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case13/contentItem-8998754-79880609-oaz2ldeg5osce-or.jpg']" 
+    },
+    "Answer": "This presentation is suggestive of acute viral hepatitis, likely hepatitis E (common in Malawi and associated with pregnancy), given the fever, jaundice, abdominal pain, and recent postpartum status."
+  }

@@ -1,0 +1,7 @@
+{
+  "Question": {
+    "Text": "A 35-year-old woman presents to a clinic in Malawi with fever, weight loss, fatigue. She is wasted and severely anaemic and she newly tests HIV-positive.",
+    "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case29/00000169-0cf2-dbbe-a16f-4ef2c3d60000.webp','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case29/image.jpg']"
+  },
+    "Answer": "Visceral leishmaniasis (Kala-azar) - The newly HIV-positive patient presents with chronic fever, weight loss, wasting, and severe anemia in Malawi. The images show massive splenomegaly and amastigotes of Leishmania within macrophages on microscopy. Visceral leishmaniasis is an opportunistic infection in HIV, causing pancytopenia, hepatosplenomegaly, and progressive wasting (kala-azar means 'black fever' in Hindi)."
+}

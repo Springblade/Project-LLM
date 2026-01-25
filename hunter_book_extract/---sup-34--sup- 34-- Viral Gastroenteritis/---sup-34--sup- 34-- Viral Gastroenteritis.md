@@ -1,0 +1,31 @@
+## **<sup>34</sup> 34** Viral Gastroenteritis
+
+*Miren Iturriza-Gómara, Nigel A. Cunliffe*
+
+## KEY FEATURES
+
+- • Viruses are the major etiologic agents of acute gastroenteritis, both in developing and developed countries, particularly in children younger than 5 years of age; in this age group diarrhea is the second most common cause of death in low income countries.
+- • All gastroenteritis-causing viruses, also referred to as *diarrhea viruses,* cause acute-onset, watery, non-bloody diarrhea.
+- • There are currently four genera and one species of viruses recognized as established causes of gastroenteritis in humans: rotavirus, norovirus, sapovirus, astrovirus, and human adenovirus F (also referred to as *enteric adenovirus*).
+- • Diarrhea caused by gastroenteritis viruses is indistinguishable by clinical features alone; etiologic diagnosis requires laboratory investigation.
+- • The disease is self-limiting in otherwise healthy individuals, but, depending on disease severity, oral or intravenous rehydration therapy is required for dehydrated patients.
+- • Highly efficacious vaccines are available for rotavirus one of the most important causes of viral diarrhea.
+
+## **INTRODUCTION**
+
+Globally, the burden of acute gastroenteritis (AGE) has been decreasing steadily over the last two decades; from being the fifth most important cause of mortality across all age groups in the year 2000, AGE ranked eighth in 2015, with the number of attributable deaths decreasing from 2.18 million to 1.39 million. However, diarrhea remains the second most common cause of death in low-income economies, responsible for 10% of the overall mortality and claiming 57.2 lives per 100,000 of the population each year ([Fig. 34.1\)](#page-0-0). Viruses account for the major proportion of causative agents responsible for AGE in both developing and developed countries. Acute diarrhea is the cardinal symptom of viral gastrointestinal infection and is defined as the passage of three or more watery or looser-than-usual stools within the preceding 24 hours for less than 2 weeks' duration.
+
+Viral gastroenteritis generally presents a common clinical picture, requiring laboratory investigation for establishment of etiology. Signs and symptoms of typical acute viral gastroenteritis include acute onset of diarrhea, often with preceding vomiting, and sometimes with fever and abdominal pain. The most important complication is dehydration, and this requires oral or intravenous fluid replacement therapy, depending on the degree of dehydration. The disease typically lasts 3 to 5 days and is self-limiting. The viruses are transmitted feco-orally and infect the epithelial cells of the small intestine. Damage to the villous epithelium of the small intestine affects the absorption of fluid and causes watery diarrhea. No inflammation occurs, as the viruses multiply only within the enterocytes in the intestinal epithelium and do not spread into the submucosa.
+
+There are currently four genera and one species of viruses recognized as the main causes of viral gastroenteritis in humans: rotavirus, norovirus, sapovirus, astrovirus, and human adenovirus F (to which serotypes 40 and 41 belong and which are also referred to as *enteric adenoviruses*). As these viruses are often shed in large numbers into stool of symptomatic patients, early diagnostic approaches relied on the use of electron microscopy. However, molecular methods based on amplification of the virus's nucleic acid that provide both high sensitivity and specificity have now become the gold standard for virus detection. The major features of these gastroenteritis viruses are summarized in [Table 34.1](#page-0-1).
+
+![](_page_0_Figure_16.jpeg)
+
+<span id="page-0-0"></span>**Fig. 34.1** Proportion of mortality associated with diarrhea between 2000 and 2015 according to World Bank income groups. (Data from the WHO data repository: [https://www.who.int/healthinfo/global\\_](https://www.who.int/healthinfo/global_burden_disease/estimates/en/) [burden\\_disease/estimates/en/](https://www.who.int/healthinfo/global_burden_disease/estimates/en/).)
+
+<span id="page-0-1"></span>
+
+| Virus                                                                        | Virus Characteristics                                                                                                   | Methods of<br>Detection     | Epidemiologic Features                                                                                                                                                                                                                                 |
+|------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Rotavirus (species<br>Rotavirus A, genus<br>Rotavirus, family<br>Reoviridae) | Non-enveloped, characteristic wheel-like,<br>triple-layered capsid, 70–80 nm in diameter,<br>double-stranded RNA genome | EM, ELISA LFI,<br>PAGE, PCR | The most important cause of severe acute<br>gastroenteritis in infants and young children.<br>Vaccines are available for infants.                                                                                                                      |
+| Norovirus (family<br>Caliciviridae)                                          | Indistinct substructure of virion surface,<br>non-enveloped, 27–35 nm in diameter,<br>single-stranded (+) RNA           | EM, ELISA, LFI,<br>PCR      | Causes gastroenteritis in all age groups.<br>Endemic in children and associated with<br>outbreaks across the age groups. It can<br>lead to severe disease among elderly and<br>immunodeficient patients. Major cause of<br>food-borne gastroenteritis. |

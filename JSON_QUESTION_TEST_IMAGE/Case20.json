@@ -1,0 +1,7 @@
+{
+    "Question": {
+      "Text": "A 43-year-old German man presents to a clinic with fever, cough. He also has some headache and diarrhoea. He reports freshwater contact in Mozambique. On examination he is febrile.",
+      "ImageList" : "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case20/1-s2.0-S2213007124000558-gr1.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case20/gr2.jpg']" 
+    },
+    "Answer": "Acute schistosomiasis (Katayama fever) - The returning traveler presents with acute febrile illness, respiratory symptoms, and diarrhea after freshwater exposure in Mozambique. The images show Schistosoma eggs with terminal spine (S. haematobium) on microscopy and cercaria in water, representing acute immune response to migrating schistosomula typically occurring 2-8 weeks post-exposure."
+  }

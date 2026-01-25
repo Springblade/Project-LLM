@@ -1,0 +1,7 @@
+{
+  "Question": {
+    "Text": "A 29-Year-Old Woman from Malawi with Confusion, watery diarrhoea and a rash that mainly seems to affect the sun-exposed areas of the skin. The family appear to be poor villagers; they live on an imbalanced diet.",
+    "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case37/images%20(1).jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case37/images%20(2).jpg']"
+  },
+    "Answer": "Pellagra (niacin/vitamin B3 deficiency) - The malnourished patient presents with the classic triad of dermatitis, diarrhea, and dementia (the 3 D's) with photosensitive rash on sun-exposed areas in Malawi. The images show characteristic hyperpigmented, scaly dermatitis in sun-exposed distribution (Casal's necklace) and the chemical structure of niacin. Pellagra occurs in populations dependent on corn/maize diets poor in niacin and tryptophan."
+}

@@ -1,0 +1,7 @@
+{
+    "Question": {
+      "Text": "A 3-year-old boy presents to a clinic in Laos with a 10-day history of fever and poor appetite. He also has unilateral parotid swelling and purulent discharge from his ear.",
+      "ImageList" : "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case15/images%20(1).jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case15/urn_cambridge.org_id_binary_20181004021412280-0320_S0022215118001391_S0022215118001391_fig1g.jpeg']" 
+    },
+    "Answer": "This presentation is suggestive of bacterial parotitis, possibly suppurative parotitis, and the ear discharge raises concern for a concurrent otitis media or mastoiditis."
+  }

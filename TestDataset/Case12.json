@@ -1,0 +1,7 @@
+{
+    "Question": {
+      "Text": "A 29-year-old man presents to a clinic in The Gambia with a 7-day history of skin lesions/rash/itching in his private part. The ulcers are tender, soft and bleed on contact",
+      "ImageList" : "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case12/M1300744.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case12/images%20(1).jpg']" 
+    },
+    "Answer":"This presentation is characteristic of chancroid, a sexually transmitted infection caused by Haemophilus ducreyi, presenting with painful, soft genital ulcers that bleed easily."
+  }
