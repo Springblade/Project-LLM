@@ -679,4 +679,686 @@
     "Caption": "Healing skin lesions at discharge from the hospital",
     "SourceFile": "94---A-20-Year-Old-Woman-from-the-Democratic-Republic-_2022_Clinical-Cases-i"
   }
+},
+{
+  "image_1": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/1---A-20-Year-Old-Woman-from-Sudan-With-Fever--_2022_Clinical-Cases-in-Tropi/images/_page_1_Picture_4.jpeg",
+    "Caption": "Oral bleeding in Ebola virus disease. (Bausch, D.G., 2008. Viral hemorrhagic fevers. In: Schlossberg, D. (Ed.), Clinical Infectious Disease. Cambridge University Press, New York. Used with permission. Photo by Bausch, D.)",
+    "SourceFile": "1---A-20-Year-Old-Woman-from-Sudan-With-Fever--_2022_Clinical-Cases-in-Tropi"
+  },
+  "image_2": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/10---A-55-Year-Old-Indigenous-Woman-from-Australia-W_2022_Clinical-Cases-in-/images/_page_0_Picture_18.jpeg",
+    "Caption": "Severe crusted scabies of the right axilla and chest wall.",
+    "SourceFile": "10---A-55-Year-Old-Indigenous-Woman-from-Australia-W_2022_Clinical-Cases-in-"
+  },
+  "image_3": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/10---A-55-Year-Old-Indigenous-Woman-from-Australia-W_2022_Clinical-Cases-in-/images/_page_1_Picture_8.jpeg",
+    "Caption": "Fissure over the wrist with underlying less severe crusted scabies.",
+    "SourceFile": "10---A-55-Year-Old-Indigenous-Woman-from-Australia-W_2022_Clinical-Cases-in-"
+  },
+  "image_4": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/11---A-45-Year-Old-Male-Security-Guard-from-Malawi-_2022_Clinical-Cases-in-T/images/_page_0_Picture_13.jpeg",
+    "Caption": "Image from 11---A-45-Year-Old-Male-Security-Guard-from-Malawi-_2022_Clinical-Cases-in-T",
+    "SourceFile": "11---A-45-Year-Old-Male-Security-Guard-from-Malawi-_2022_Clinical-Cases-in-T"
+  },
+  "image_5": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/11---A-45-Year-Old-Male-Security-Guard-from-Malawi-_2022_Clinical-Cases-in-T/images/_page_0_Picture_14.jpeg",
+    "Caption": "Physical examination of a Malawian patient with back pain and difficulties walking. (A) Tattoos from a traditional healer on the chest of the patient. (B) Severe spasticity and contractures of both lower limbs.",
+    "SourceFile": "11---A-45-Year-Old-Male-Security-Guard-from-Malawi-_2022_Clinical-Cases-in-T"
+  },
+  "image_6": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/11---A-45-Year-Old-Male-Security-Guard-from-Malawi-_2022_Clinical-Cases-in-T/images/_page_2_Picture_11.jpeg",
+    "Caption": "AP radiograph demonstrating a paravertebral soft tissue mass in the lower dorsal region with collapse of the T11 vertebral body. (Waldman, S.D., Campbell, R.S.D., 2011. Imaging of Pain, 1st ed. Saunders, Amsterdam. pp. 147–8)",
+    "SourceFile": "11---A-45-Year-Old-Male-Security-Guard-from-Malawi-_2022_Clinical-Cases-in-T"
+  },
+  "image_7": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/12---A-29-Year-Old-Man-from-The-Gambia-With-G_2022_Clinical-Cases-in-Tropica/images/_page_0_Picture_11.jpeg",
+    "Caption": "Numerous painful ulcers on the penis, scrotum and inner thigh. The ulcers are soft, tender and bleed on contact.",
+    "SourceFile": "12---A-29-Year-Old-Man-from-The-Gambia-With-G_2022_Clinical-Cases-in-Tropica"
+  },
+  "image_8": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/12---A-29-Year-Old-Man-from-The-Gambia-With-G_2022_Clinical-Cases-in-Tropica/images/_page_1_Picture_5.jpeg",
+    "Caption": "Follow-up after 1 week of antibiotic therapy. The ulcers are healing and the pain has resolved.",
+    "SourceFile": "12---A-29-Year-Old-Man-from-The-Gambia-With-G_2022_Clinical-Cases-in-Tropica"
+  },
+  "image_9": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/14---A-22-Year-Old-Woman-from-Bangladesh-With-P_2022_Clinical-Cases-in-Tropi/images/_page_0_Picture_15.jpeg",
+    "Caption": "Stool culture growing Vibrio cholerae which produces typical golden-yellow colonies on thiosulphate citrate bile salt sucrose (TCBS) agar.",
+    "SourceFile": "14---A-22-Year-Old-Woman-from-Bangladesh-With-P_2022_Clinical-Cases-in-Tropi"
+  },
+  "image_10": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/15---A-3-Year-Old-Boy-from-Laos-With-Right-Sup_2022_Clinical-Cases-in-Tropic/images/_page_0_Picture_15.jpeg",
+    "Caption": "A Lao boy with a unilateral parotid mass showing signs of local inflammation.",
+    "SourceFile": "15---A-3-Year-Old-Boy-from-Laos-With-Right-Sup_2022_Clinical-Cases-in-Tropic"
+  },
+  "image_11": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/17---A-34-Year-Old-Man-from-Thailand-With-Feve_2022_Clinical-Cases-in-Tropic/images/_page_0_Picture_10.jpeg",
+    "Caption": "Multiple umbilicated papular skin lesions on the neck.",
+    "SourceFile": "17---A-34-Year-Old-Man-from-Thailand-With-Feve_2022_Clinical-Cases-in-Tropic"
+  },
+  "image_12": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/17---A-34-Year-Old-Man-from-Thailand-With-Feve_2022_Clinical-Cases-in-Tropic/images/_page_1_Picture_12.jpeg",
+    "Caption": "Histology of the supraclavicular lymph node showing multiple round-shaped yeast-like structures (PAS stain, × 400). *Inset:* Prominent septal wall ('septation') as a result of reproduction by fission. (Courtesy U. Zimmermann, M. Grünbaum and H. Herbst.)",
+    "SourceFile": "17---A-34-Year-Old-Man-from-Thailand-With-Feve_2022_Clinical-Cases-in-Tropic"
+  },
+  "image_13": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/19---A-40-Year-Old-Man-from-Togo-With-Subcutaneou_2022_Clinical-Cases-in-Tro/images/_page_0_Picture_14.jpeg",
+    "Caption": "The patient's left eye showing corneal opacities. (Courtesy H. Trojan)",
+    "SourceFile": "19---A-40-Year-Old-Man-from-Togo-With-Subcutaneou_2022_Clinical-Cases-in-Tro"
+  },
+  "image_14": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/19---A-40-Year-Old-Man-from-Togo-With-Subcutaneou_2022_Clinical-Cases-in-Tro/images/_page_0_Picture_16.jpeg",
+    "Caption": "The patient's left eye showing corneal opacities. (Courtesy H. Trojan)",
+    "SourceFile": "19---A-40-Year-Old-Man-from-Togo-With-Subcutaneou_2022_Clinical-Cases-in-Tro"
+  },
+  "image_15": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/2---A-7-Year-Old-Girl-from-Peru-With-a-Chron_2022_Clinical-Cases-in-Tropical/images/_page_0_Picture_11.jpeg",
+    "Caption": "Image from 2---A-7-Year-Old-Girl-from-Peru-With-a-Chron_2022_Clinical-Cases-in-Tropical",
+    "SourceFile": "2---A-7-Year-Old-Girl-from-Peru-With-a-Chron_2022_Clinical-Cases-in-Tropical"
+  },
+  "image_16": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/2---A-7-Year-Old-Girl-from-Peru-With-a-Chron_2022_Clinical-Cases-in-Tropical/images/_page_1_Picture_19.jpeg",
+    "Caption": "Follow-up image after 20 days of treatment.",
+    "SourceFile": "2---A-7-Year-Old-Girl-from-Peru-With-a-Chron_2022_Clinical-Cases-in-Tropical"
+  },
+  "image_17": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/2---A-7-Year-Old-Girl-from-Peru-With-a-Chron_2022_Clinical-Cases-in-Tropical/images/_page_1_Picture_21.jpeg",
+    "Caption": "Follow-up image after 20 days of treatment.",
+    "SourceFile": "2---A-7-Year-Old-Girl-from-Peru-With-a-Chron_2022_Clinical-Cases-in-Tropical"
+  },
+  "image_18": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/20---A-43-Year-Old-Male-Traveller-Returning-from-M_2022_Clinical-Cases-in-Tr/images/_page_0_Picture_15.jpeg",
+    "Caption": "Chest radiograph showing nodular changes in the periphery of both lungs.",
+    "SourceFile": "20---A-43-Year-Old-Male-Traveller-Returning-from-M_2022_Clinical-Cases-in-Tr"
+  },
+  "image_19": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/20---A-43-Year-Old-Male-Traveller-Returning-from-M_2022_Clinical-Cases-in-Tr/images/_page_1_Picture_22.jpeg",
+    "Caption": "Schistosoma mansoni egg.",
+    "SourceFile": "20---A-43-Year-Old-Male-Traveller-Returning-from-M_2022_Clinical-Cases-in-Tr"
+  },
+  "image_20": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/21---A-35-Year-Old-American-Man-With-Fatigue-_2022_Clinical-Cases-in-Tropica/images/_page_0_Picture_11.jpeg",
+    "Caption": "Papulovesicular lesion with extensive neck oedema 2 days after the onset of a small papule.",
+    "SourceFile": "21---A-35-Year-Old-American-Man-With-Fatigue-_2022_Clinical-Cases-in-Tropica"
+  },
+  "image_21": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/22---32-Year-Old-Woman-from-Nigeria-With-Jaund_2022_Clinical-Cases-in-Tropic/images/_page_1_Figure_2.jpeg",
+    "Caption": "Global distribution of Plasmodium falciparum and Plasmodium vivax malaria. Upper panel shows the model-based geostatistical point (MBG) estimates of the Plasmodium falciparum annual mean parasite rate PfPR2–10 (defined as the predicted proportion of 2–10-year-olds with patent parasitaemia) for 2010 within the spatial limits of stable P. falciparum malaria transmission. Lower panel shows equivalent estimates of the Plasmodium vivax annual mean parasite rate (PvPR1–99). Note this prediction is for all age groups (1–99). Areas in which the Duffy negativity gene frequency is predicted to exceed 90% are shown in hatching. (Reproduced from Farrar, J. et al., 2013. Manson's Tropical Diseases, 23rd ed. Elsevier, London. Fig. 43.1.)",
+    "SourceFile": "22---32-Year-Old-Woman-from-Nigeria-With-Jaund_2022_Clinical-Cases-in-Tropic"
+  },
+  "image_22": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/23---A-31-Year-Old-HIV-Positive-Business-Traveller-W_2022_Clinical-Cases-in-/images/_page_0_Picture_16.jpeg",
+    "Caption": "Chest radiograph on admission, showing bilateral perihilar infiltrates.",
+    "SourceFile": "23---A-31-Year-Old-HIV-Positive-Business-Traveller-W_2022_Clinical-Cases-in-"
+  },
+  "image_23": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/23---A-31-Year-Old-HIV-Positive-Business-Traveller-W_2022_Clinical-Cases-in-/images/_page_2_Picture_2.jpeg",
+    "Caption": "CT scan of the chest showing bilateral ground-glass infiltrates, but no pulmonary emboli.",
+    "SourceFile": "23---A-31-Year-Old-HIV-Positive-Business-Traveller-W_2022_Clinical-Cases-in-"
+  },
+  "image_24": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/24---A-14-Year-Old-Boy-from-Rural-Tanzania-With_2022_Clinical-Cases-in-Tropi/images/_page_0_Picture_10.jpeg",
+    "Caption": "A 14-year-old boy from rural Tanzania with spastic paraparesis. His illness started about 2 years earlier and had an acute onset. Several other people are also affected in his own and neighbouring villages.",
+    "SourceFile": "24---A-14-Year-Old-Boy-from-Rural-Tanzania-With_2022_Clinical-Cases-in-Tropi"
+  },
+  "image_25": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/25---A-72-Year-Old-Male-Farmer-from-Laos-With-Exte_2022_Clinical-Cases-in-Tr/images/_page_0_Picture_14.jpeg",
+    "Caption": "Lower legs of the patient at presentation with fungating lesions on his left foot that spread centripetally up to his knee. The left lower leg is also swollen and hyperaemic.",
+    "SourceFile": "25---A-72-Year-Old-Male-Farmer-from-Laos-With-Exte_2022_Clinical-Cases-in-Tr"
+  },
+  "image_26": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/25---A-72-Year-Old-Male-Farmer-from-Laos-With-Exte_2022_Clinical-Cases-in-Tr/images/_page_1_Picture_17.jpeg",
+    "Caption": "Characteristic brownish sclerotic cells in skin scrapings (100 ×, oil immersion, wet film).",
+    "SourceFile": "25---A-72-Year-Old-Male-Farmer-from-Laos-With-Exte_2022_Clinical-Cases-in-Tr"
+  },
+  "image_27": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/26---A-14-Year-Old-Boy-from-Malawi-Who-Has-Bee_2022_Clinical-Cases-in-Tropic/images/_page_0_Picture_12.jpeg",
+    "Caption": "Table: .",
+    "SourceFile": "26---A-14-Year-Old-Boy-from-Malawi-Who-Has-Bee_2022_Clinical-Cases-in-Tropic"
+  },
+  "image_28": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/26---A-14-Year-Old-Boy-from-Malawi-Who-Has-Bee_2022_Clinical-Cases-in-Tropic/images/_page_1_Picture_18.jpeg",
+    "Caption": "After several debridements the wound looks clean.",
+    "SourceFile": "26---A-14-Year-Old-Boy-from-Malawi-Who-Has-Bee_2022_Clinical-Cases-in-Tropic"
+  },
+  "image_29": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/27---A-16-Year-Old-Boy-from-Sri-Lanka-With-Fever_2022_Clinical-Cases-in-Trop/images/_page_0_Picture_9.jpeg",
+    "Caption": "Table: Laboratory Results on Admission",
+    "SourceFile": "27---A-16-Year-Old-Boy-from-Sri-Lanka-With-Fever_2022_Clinical-Cases-in-Trop"
+  },
+  "image_30": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/28---A-67-Year-Old-Female-Expatriate-Living-in-Came_2022_Clinical-Cases-in-T/images/_page_1_Figure_13.jpeg",
+    "Caption": "Sheathed microfilaria of *Loa loa*. The tail is tapered and nuclei are extending into the tip of the tail. (Giemsa staining; magnification  $200\\,\\times$ )",
+    "SourceFile": "28---A-67-Year-Old-Female-Expatriate-Living-in-Came_2022_Clinical-Cases-in-T"
+  },
+  "image_31": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/28---A-67-Year-Old-Female-Expatriate-Living-in-Came_2022_Clinical-Cases-in-T/images/_page_1_Picture_11.jpeg",
+    "Caption": "Sheathed microfilaria of *Loa loa*. The tail is tapered and nuclei are extending into the tip of the tail. (Giemsa staining; magnification  $200\\,\\times$ )",
+    "SourceFile": "28---A-67-Year-Old-Female-Expatriate-Living-in-Came_2022_Clinical-Cases-in-T"
+  },
+  "image_32": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/3---A-26-Year-Old-Woman-from-Malawi-with-Headache-_2022_Clinical-Cases-in-Tr/images/_page_0_Picture_14.jpeg",
+    "Caption": "Image from 3---A-26-Year-Old-Woman-from-Malawi-with-Headache-_2022_Clinical-Cases-in-Tr",
+    "SourceFile": "3---A-26-Year-Old-Woman-from-Malawi-with-Headache-_2022_Clinical-Cases-in-Tr"
+  },
+  "image_33": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/3---A-26-Year-Old-Woman-from-Malawi-with-Headache-_2022_Clinical-Cases-in-Tr/images/_page_0_Picture_15.jpeg",
+    "Caption": "(A) There is complete ptosis on the left. (B) On primary gaze, the left eye is in a 'down and out' position.",
+    "SourceFile": "3---A-26-Year-Old-Woman-from-Malawi-with-Headache-_2022_Clinical-Cases-in-Tr"
+  },
+  "image_34": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/3---A-26-Year-Old-Woman-from-Malawi-with-Headache-_2022_Clinical-Cases-in-Tr/images/_page_2_Picture_2.jpeg",
+    "Caption": "Ziehl–Neelsen stain of CSF sample showing acid-fast bacilli (arrows). (Courtesy Prof. Jeremy Day).",
+    "SourceFile": "3---A-26-Year-Old-Woman-from-Malawi-with-Headache-_2022_Clinical-Cases-in-Tr"
+  },
+  "image_35": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/30---A-12-Year-Old-Boy-from-Rural-Kenya-With_2022_Clinical-Cases-in-Tropical/images/_page_0_Picture_10.jpeg",
+    "Caption": "Table: and Figures 30.1 and 30.2.",
+    "SourceFile": "30---A-12-Year-Old-Boy-from-Rural-Kenya-With_2022_Clinical-Cases-in-Tropical"
+  },
+  "image_36": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/30---A-12-Year-Old-Boy-from-Rural-Kenya-With_2022_Clinical-Cases-in-Tropical/images/_page_1_Picture_2.jpeg",
+    "Caption": "The left eye with a focal corneal scarring including a perforated corneal ulcer with adherent iris (leucoma).",
+    "SourceFile": "30---A-12-Year-Old-Boy-from-Rural-Kenya-With_2022_Clinical-Cases-in-Tropical"
+  },
+  "image_37": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/31---A-6-Year-Old-Boy-from-Malawi-With-Fever--Cou_2022_Clinical-Cases-in-Tro/images/_page_1_Picture_3.jpeg",
+    "Caption": "Scaling of the erythematous rash.",
+    "SourceFile": "31---A-6-Year-Old-Boy-from-Malawi-With-Fever--Cou_2022_Clinical-Cases-in-Tro"
+  },
+  "image_38": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/32---A-44-Year-Old-Male-Farmer-from-Laos-With-Di_2022_Clinical-Cases-in-Trop/images/_page_0_Picture_13.jpeg",
+    "Caption": "Wound on the patient's left shoulder, after incision and drainage of the abscess. (Side finding: hypopigmented macular skin lesions of Pityriasis versicolor (Malassezia spp.), commonly seen in humid tropical climates.)",
+    "SourceFile": "32---A-44-Year-Old-Male-Farmer-from-Laos-With-Di_2022_Clinical-Cases-in-Trop"
+  },
+  "image_39": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/32---A-44-Year-Old-Male-Farmer-from-Laos-With-Di_2022_Clinical-Cases-in-Trop/images/_page_1_Picture_13.jpeg",
+    "Caption": "Admission chest radiograph of the patient, showing bilateral pleural effusions.",
+    "SourceFile": "32---A-44-Year-Old-Male-Farmer-from-Laos-With-Di_2022_Clinical-Cases-in-Trop"
+  },
+  "image_40": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/33---A-53-Year-Old-Man-from-Malawi-With-a-C_2022_Clinical-Cases-in-Tropical-/images/_page_0_Picture_16.jpeg",
+    "Caption": "Chest radiograph on admission showing a prominent hilar region.",
+    "SourceFile": "33---A-53-Year-Old-Man-from-Malawi-With-a-C_2022_Clinical-Cases-in-Tropical-"
+  },
+  "image_41": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/33---A-53-Year-Old-Man-from-Malawi-With-a-C_2022_Clinical-Cases-in-Tropical-/images/_page_2_Picture_11.jpeg",
+    "Caption": "Table: ).",
+    "SourceFile": "33---A-53-Year-Old-Man-from-Malawi-With-a-C_2022_Clinical-Cases-in-Tropical-"
+  },
+  "image_42": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/34---A-35-Year-Old-Male-Farmer-from-Peru-With-a-Chro_2022_Clinical-Cases-in-/images/_page_0_Picture_11.jpeg",
+    "Caption": "Initial ulcerated lesion on the left hand. Note the pustular lesion near the ulcer.",
+    "SourceFile": "34---A-35-Year-Old-Male-Farmer-from-Peru-With-a-Chro_2022_Clinical-Cases-in-"
+  },
+  "image_43": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/35---A-32-Year-Old-Woman-from-Malawi-With-Heada_2022_Clinical-Cases-in-Tropi/images/_page_0_Picture_9.jpeg",
+    "Caption": "Abducens nerve palsy on the left in a patient with sub-acute headache",
+    "SourceFile": "35---A-32-Year-Old-Woman-from-Malawi-With-Heada_2022_Clinical-Cases-in-Tropi"
+  },
+  "image_44": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/35---A-32-Year-Old-Woman-from-Malawi-With-Heada_2022_Clinical-Cases-in-Tropi/images/_page_1_Picture_14.jpeg",
+    "Caption": "Photomicrograph of Cryptococcus neoformans (India Ink stain). (Source: [www.cdc.gov](http://www.cdc.gov); [www.cdc.gov/fungal/cryptococco](http://www.cdc.gov/fungal/cryptococcosis-neoformans/) [sis-neoformans/](http://www.cdc.gov/fungal/cryptococcosis-neoformans/))",
+    "SourceFile": "35---A-32-Year-Old-Woman-from-Malawi-With-Heada_2022_Clinical-Cases-in-Tropi"
+  },
+  "image_45": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/36---A-23-Year-Old-Farmer-from-Myanmar-With-Uni_2022_Clinical-Cases-in-Tropi/images/_page_0_Picture_17.jpeg",
+    "Caption": "Massive unilateral scrotal swelling. The swelling is non-tender and non-reducible.",
+    "SourceFile": "36---A-23-Year-Old-Farmer-from-Myanmar-With-Uni_2022_Clinical-Cases-in-Tropi"
+  },
+  "image_46": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/37---A-29-Year-Old-Woman-from-Malawi-With-Confusi_2022_Clinical-Cases-in-Tro/images/_page_0_Picture_13.jpeg",
+    "Caption": "Hyperpigmented skin rash on sun-exposed skin.",
+    "SourceFile": "37---A-29-Year-Old-Woman-from-Malawi-With-Confusi_2022_Clinical-Cases-in-Tro"
+  },
+  "image_47": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/37---A-29-Year-Old-Woman-from-Malawi-With-Confusi_2022_Clinical-Cases-in-Tro/images/_page_0_Picture_15.jpeg",
+    "Caption": "Hyperpigmented skin rash on sun-exposed skin.",
+    "SourceFile": "37---A-29-Year-Old-Woman-from-Malawi-With-Confusi_2022_Clinical-Cases-in-Tro"
+  },
+  "image_48": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/38---A-24-Year-Old-Female-Globetrotter-With-Strange_2022_Clinical-Cases-in-T/images/_page_1_Figure_2.jpeg",
+    "Caption": "Image from 38---A-24-Year-Old-Female-Globetrotter-With-Strange_2022_Clinical-Cases-in-T",
+    "SourceFile": "38---A-24-Year-Old-Female-Globetrotter-With-Strange_2022_Clinical-Cases-in-T"
+  },
+  "image_49": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/39---A-30-Year-Old-Male-Chinese-Trader-With-_2022_Clinical-Cases-in-Tropical/images/_page_1_Figure_2.jpeg",
+    "Caption": "Examples of genuine (A) and falsified (B) artemether-lumefantrine discovered in Africa. The red circles indicate errors made by the criminals. The falsifiers confused 'm' with 'rn' in 'lagern' (German for \"storing\") and printed the packets with the word 'lagem' in error. The falsified samples contained no detectable artemether or lumefantrine but did contain subtherapeutic pyrimethamine. (Reproduced from Newton, P.N., Green, M.D., Mildenhall, D.C., et al., 2011. Poor quality vital anti-malarials in Africa - an urgent neglected public health priority. Malar J. 10, 352.)",
+    "SourceFile": "39---A-30-Year-Old-Male-Chinese-Trader-With-_2022_Clinical-Cases-in-Tropical"
+  },
+  "image_50": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/4---A-4-Year-Old-Girl-from-Uganda-in-a-_2022_Clinical-Cases-in-Tropical-Medi/images/_page_1_Picture_13.jpeg",
+    "Caption": "Infant with cerebral malaria hospitalized at Queen Elizabeth Central Hospital, Blantyre, Malawi (Courtesy Mr James Peck).",
+    "SourceFile": "4---A-4-Year-Old-Girl-from-Uganda-in-a-_2022_Clinical-Cases-in-Tropical-Medi"
+  },
+  "image_51": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/4---A-4-Year-Old-Girl-from-Uganda-in-a-_2022_Clinical-Cases-in-Tropical-Medi/images/_page_1_Picture_7.jpeg",
+    "Caption": "White-centred haemorrhages and retinal whitening, both features of malaria retinopathy (Courtesy Dr Nicholas Beare).",
+    "SourceFile": "4---A-4-Year-Old-Girl-from-Uganda-in-a-_2022_Clinical-Cases-in-Tropical-Medi"
+  },
+  "image_52": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/41---A-7-Year-Old-Girl-from-West-Africa-With-Two-Ski_2022_Clinical-Cases-in-/images/_page_0_Picture_18.jpeg",
+    "Caption": "Large skin ulcer on the back of the right hand filled with necrotic tissue; second smaller ulcer on the medial side of the wrist.",
+    "SourceFile": "41---A-7-Year-Old-Girl-from-West-Africa-With-Two-Ski_2022_Clinical-Cases-in-"
+  },
+  "image_53": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/41---A-7-Year-Old-Girl-from-West-Africa-With-Two-Ski_2022_Clinical-Cases-in-/images/_page_1_Picture_3.jpeg",
+    "Caption": "Large skin ulcer on the back of the right hand filled with necrotic tissue; second smaller ulcer on the medial side of the wrist.",
+    "SourceFile": "41---A-7-Year-Old-Girl-from-West-Africa-With-Two-Ski_2022_Clinical-Cases-in-"
+  },
+  "image_54": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/42---A-41-Year-Old-Male-Traveller-Returning-from-Au_2022_Clinical-Cases-in-T/images/_page_0_Picture_10.jpeg",
+    "Caption": "Three track-like skin eruptions on both upper thighs causing intense itching.",
+    "SourceFile": "42---A-41-Year-Old-Male-Traveller-Returning-from-Au_2022_Clinical-Cases-in-T"
+  },
+  "image_55": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/43---A-35-Year-Old-Malawian-Woman-With-a-Pain_2022_Clinical-Cases-in-Tropica/images/_page_0_Picture_21.jpeg",
+    "Caption": "Left eye with marked axial proptosis, nasal upper lid covered with tetracycline eye ointment.",
+    "SourceFile": "43---A-35-Year-Old-Malawian-Woman-With-a-Pain_2022_Clinical-Cases-in-Tropica"
+  },
+  "image_56": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/43---A-35-Year-Old-Malawian-Woman-With-a-Pain_2022_Clinical-Cases-in-Tropica/images/_page_1_Figure_2.jpeg",
+    "Caption": "Left eye with marked axial proptosis, nasal upper lid covered with tetracycline eye ointment.",
+    "SourceFile": "43---A-35-Year-Old-Malawian-Woman-With-a-Pain_2022_Clinical-Cases-in-Tropica"
+  },
+  "image_57": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/44---A-7-Year-Old-Girl-from-South-Sudan-With-_2022_Clinical-Cases-in-Tropica/images/_page_1_Picture_20.jpeg",
+    "Caption": "A child is receiving liposomal amphotericin B on a paediatric ward in South Sudan.",
+    "SourceFile": "44---A-7-Year-Old-Girl-from-South-Sudan-With-_2022_Clinical-Cases-in-Tropica"
+  },
+  "image_58": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/47---A-32-Year-Old-Man-from-Malawi-With-a-Pain_2022_Clinical-Cases-in-Tropic/images/_page_0_Picture_14.jpeg",
+    "Caption": "The patient's \"health passport\". The health passport is a booklet all patients in Malawi hold which documents their medical history.",
+    "SourceFile": "47---A-32-Year-Old-Man-from-Malawi-With-a-Pain_2022_Clinical-Cases-in-Tropic"
+  },
+  "image_59": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/47---A-32-Year-Old-Man-from-Malawi-With-a-Pain_2022_Clinical-Cases-in-Tropic/images/_page_0_Picture_16.jpeg",
+    "Caption": "The patient's \"health passport\". The health passport is a booklet all patients in Malawi hold which documents their medical history.",
+    "SourceFile": "47---A-32-Year-Old-Man-from-Malawi-With-a-Pain_2022_Clinical-Cases-in-Tropic"
+  },
+  "image_60": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/48---A-31-Year-Old-Woman-from-Tanzania-With-Acu_2022_Clinical-Cases-in-Tropi/images/_page_0_Picture_11.jpeg",
+    "Caption": "A patient with an acute-onset flaccid paraplegia. Note the plantar flexion of her feet.",
+    "SourceFile": "48---A-31-Year-Old-Woman-from-Tanzania-With-Acu_2022_Clinical-Cases-in-Tropi"
+  },
+  "image_61": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/49---A-33-Year-Old-Male-Traveller-to-India-With-Di_2022_Clinical-Cases-in-Tr/images/_page_0_Picture_15.jpeg",
+    "Caption": "Fresh preparation showing trophozoites (A) and formol-ether concentration showing cysts (B) of Giardia species.",
+    "SourceFile": "49---A-33-Year-Old-Male-Traveller-to-India-With-Di_2022_Clinical-Cases-in-Tr"
+  },
+  "image_62": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/5---A-4-Year-Old-Boy-from-Laos-With-a-Lesion-o_2022_Clinical-Cases-in-Tropic/images/_page_0_Picture_6.jpeg",
+    "Caption": "A 4-year-old Lao boy with a necrotizing lesion on the right cheek.",
+    "SourceFile": "5---A-4-Year-Old-Boy-from-Laos-With-a-Lesion-o_2022_Clinical-Cases-in-Tropic"
+  },
+  "image_63": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/5---A-4-Year-Old-Boy-from-Laos-With-a-Lesion-o_2022_Clinical-Cases-in-Tropic/images/_page_1_Picture_8.jpeg",
+    "Caption": "At age 9 after two surgeries correcting facial contractures and salivary incontinence.",
+    "SourceFile": "5---A-4-Year-Old-Boy-from-Laos-With-a-Lesion-o_2022_Clinical-Cases-in-Tropic"
+  },
+  "image_64": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/50---A-24-Year-Old-Man-of-Turkish-Origin-With-Jau_2022_Clinical-Cases-in-Tro/images/_page_0_Figure_14.jpeg",
+    "Caption": "Table: .",
+    "SourceFile": "50---A-24-Year-Old-Man-of-Turkish-Origin-With-Jau_2022_Clinical-Cases-in-Tro"
+  },
+  "image_65": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/50---A-24-Year-Old-Man-of-Turkish-Origin-With-Jau_2022_Clinical-Cases-in-Tro/images/_page_1_Picture_2.jpeg",
+    "Caption": "Ultrasound scan of the liver at diagnosis 3 years before current presentation reveals two cystic lesions. One lesion is located in the right liver lobe ( $7 \\times 6$ cm). Cyst content shows a solid cyst matrix containing multiple smaller cysts (A). The cyst wall is partially calcified (WHO classification CE3b). (B) Second cystic lesion in the left liver lobe ( $5 \\times 4$  cm). The cyst wall is up to 4 mm thick with partial calcification. Cyst content is liquid; there is a double line sign, a feature of WHO CE1, and hydatid sand. (Copyright W. Hosch, Department of Radiology, Heidelberg University Hospital.)",
+    "SourceFile": "50---A-24-Year-Old-Man-of-Turkish-Origin-With-Jau_2022_Clinical-Cases-in-Tro"
+  },
+  "image_66": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/51---A-34-Year-Old-HIV-Positive-Woman-from-Malawi-W_2022_Clinical-Cases-in-T/images/_page_0_Picture_20.jpeg",
+    "Caption": "Pronator drift on the left side as a sign of left upper limb weakness. The patient was asked to stretch out both arms and close her eyes.",
+    "SourceFile": "51---A-34-Year-Old-HIV-Positive-Woman-from-Malawi-W_2022_Clinical-Cases-in-T"
+  },
+  "image_67": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/51---A-34-Year-Old-HIV-Positive-Woman-from-Malawi-W_2022_Clinical-Cases-in-T/images/_page_2_Picture_2.jpeg",
+    "Caption": "(A) Cranial CT scan showing a hypodense lesion in the subcortical white matter in the left occipital lobe. (B) Cranial MRI showing bilateral T2 hyperintense (to grey matter) lesions in the subcortical white matter involving the so-called U-fibres resulting in a \"scalloped appearance\". (Courtesy Dr Eberhard Siebert, University Medical Center Charitè, Berlin, Germany)",
+    "SourceFile": "51---A-34-Year-Old-HIV-Positive-Woman-from-Malawi-W_2022_Clinical-Cases-in-T"
+  },
+  "image_68": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/52---A-56-Year-Old-Man-from-Peru-With-Prolonged-_2022_Clinical-Cases-in-Trop/images/_page_1_Figure_7.jpeg",
+    "Caption": "Thin smear showing massive infestation of red blood cells with cocco-bacillary structures (Wright stain).",
+    "SourceFile": "52---A-56-Year-Old-Man-from-Peru-With-Prolonged-_2022_Clinical-Cases-in-Trop"
+  },
+  "image_69": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/52---A-56-Year-Old-Man-from-Peru-With-Prolonged-_2022_Clinical-Cases-in-Trop/images/_page_1_Picture_9.jpeg",
+    "Caption": "Thin smear showing massive infestation of red blood cells with cocco-bacillary structures (Wright stain).",
+    "SourceFile": "52---A-56-Year-Old-Man-from-Peru-With-Prolonged-_2022_Clinical-Cases-in-Trop"
+  },
+  "image_70": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/54---A-52-Year-Old-Male-Safari-Tourist-Returning-fro_2022_Clinical-Cases-in-/images/_page_0_Picture_20.jpeg",
+    "Caption": "Small necrotic skin lesion (about 0.7 cm in diameter) with surrounding inflammation and lymphangiitis on the left upper thigh of the patient.",
+    "SourceFile": "54---A-52-Year-Old-Male-Safari-Tourist-Returning-fro_2022_Clinical-Cases-in-"
+  },
+  "image_71": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/55---A-40-Year-Old-Male-Farmer-from-Peru-With-Ch_2022_Clinical-Cases-in-Trop/images/_page_1_Picture_2.jpeg",
+    "Caption": "Chest radiograph showing bilateral confluent reticulonodular infiltrates predominantly in the central and upper zones of both lungs. Cavities are seen in the right lung. There is no hilar lymphadenopathy.",
+    "SourceFile": "55---A-40-Year-Old-Male-Farmer-from-Peru-With-Ch_2022_Clinical-Cases-in-Trop"
+  },
+  "image_72": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/55---A-40-Year-Old-Male-Farmer-from-Peru-With-Ch_2022_Clinical-Cases-in-Trop/images/_page_1_Picture_8.jpeg",
+    "Caption": "Large budding yeast (range: 8–40 μm) with multiple surrounding smaller buds around (arrows) seen on KOH preparation of the patient's sputum.",
+    "SourceFile": "55---A-40-Year-Old-Male-Farmer-from-Peru-With-Ch_2022_Clinical-Cases-in-Trop"
+  },
+  "image_73": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/56---A-21-Year-Old-Pregnant-Woman-from-The-Ga_2022_Clinical-Cases-in-Tropica/images/_page_0_Picture_20.jpeg",
+    "Caption": "Generalized, non-itchy macular rash in a pregnant Gambian woman.",
+    "SourceFile": "56---A-21-Year-Old-Pregnant-Woman-from-The-Ga_2022_Clinical-Cases-in-Tropica"
+  },
+  "image_74": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/56---A-21-Year-Old-Pregnant-Woman-from-The-Ga_2022_Clinical-Cases-in-Tropica/images/_page_1_Picture_2.jpeg",
+    "Caption": "Generalized, non-itchy macular rash in a pregnant Gambian woman.",
+    "SourceFile": "56---A-21-Year-Old-Pregnant-Woman-from-The-Ga_2022_Clinical-Cases-in-Tropica"
+  },
+  "image_75": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/57---A-37-Year-Old-Woman-from-Malawi-With-H_2022_Clinical-Cases-in-Tropical-/images/_page_1_Picture_13.jpeg",
+    "Caption": "Ultrasound of the liver showing pipestem fibrosis (Courtesy Prof. Joachim Richter).",
+    "SourceFile": "57---A-37-Year-Old-Woman-from-Malawi-With-H_2022_Clinical-Cases-in-Tropical-"
+  },
+  "image_76": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/58---A-25-Year-Old-Woman-from-Egypt-With-Severe-Ch_2022_Clinical-Cases-in-Tr/images/_page_0_Picture_14.jpeg",
+    "Caption": "Helminth ova in a stool sample of a 25-year-old woman from Egypt with chronic diarrhoea.",
+    "SourceFile": "58---A-25-Year-Old-Woman-from-Egypt-With-Severe-Ch_2022_Clinical-Cases-in-Tr"
+  },
+  "image_77": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/58---A-25-Year-Old-Woman-from-Egypt-With-Severe-Ch_2022_Clinical-Cases-in-Tr/images/_page_1_Picture_15.jpeg",
+    "Caption": "Adult C. philippinensis in the patient's stool sample during treatment with mebendazole.",
+    "SourceFile": "58---A-25-Year-Old-Woman-from-Egypt-With-Severe-Ch_2022_Clinical-Cases-in-Tr"
+  },
+  "image_78": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/59---A-24-Year-Old-Man-from-Malawi-With-Skin-Le_2022_Clinical-Cases-in-Tropi/images/_page_0_Picture_14.jpeg",
+    "Caption": "Facial swelling and dark-purplish skin lesions on chest and nose of the patient.",
+    "SourceFile": "59---A-24-Year-Old-Man-from-Malawi-With-Skin-Le_2022_Clinical-Cases-in-Tropi"
+  },
+  "image_79": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/59---A-24-Year-Old-Man-from-Malawi-With-Skin-Le_2022_Clinical-Cases-in-Tropi/images/_page_0_Picture_16.jpeg",
+    "Caption": "Facial swelling and dark-purplish skin lesions on chest and nose of the patient.",
+    "SourceFile": "59---A-24-Year-Old-Man-from-Malawi-With-Skin-Le_2022_Clinical-Cases-in-Tropi"
+  },
+  "image_80": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/59---A-24-Year-Old-Man-from-Malawi-With-Skin-Le_2022_Clinical-Cases-in-Tropi/images/_page_1_Picture_14.jpeg",
+    "Caption": "Chest radiograph showing bilateral peribronchovascular infiltration in the lower and mid lung zones.",
+    "SourceFile": "59---A-24-Year-Old-Man-from-Malawi-With-Skin-Le_2022_Clinical-Cases-in-Tropi"
+  },
+  "image_81": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/6---A-36-Year-Old-Male-Traveller-Returning-from-B_2022_Clinical-Cases-in-Tro/images/_page_0_Picture_20.jpeg",
+    "Caption": "Itchy serpiginous rash tracking up the right shoulder.",
+    "SourceFile": "6---A-36-Year-Old-Male-Traveller-Returning-from-B_2022_Clinical-Cases-in-Tro"
+  },
+  "image_82": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/6---A-36-Year-Old-Male-Traveller-Returning-from-B_2022_Clinical-Cases-in-Tro/images/_page_1_Picture_12.jpeg",
+    "Caption": "A picture taken after treatment of the mass tracking down the patient's forehead.",
+    "SourceFile": "6---A-36-Year-Old-Male-Traveller-Returning-from-B_2022_Clinical-Cases-in-Tro"
+  },
+  "image_83": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/60---A-6-Year-Old-Boy-from-Malawi-With-Proptos_2022_Clinical-Cases-in-Tropic/images/_page_0_Picture_24.jpeg",
+    "Caption": "The boy before four courses of chemotherapy.",
+    "SourceFile": "60---A-6-Year-Old-Boy-from-Malawi-With-Proptos_2022_Clinical-Cases-in-Tropic"
+  },
+  "image_84": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/60---A-6-Year-Old-Boy-from-Malawi-With-Proptos_2022_Clinical-Cases-in-Tropic/images/_page_1_Picture_3.jpeg",
+    "Caption": "The boy before four courses of chemotherapy.",
+    "SourceFile": "60---A-6-Year-Old-Boy-from-Malawi-With-Proptos_2022_Clinical-Cases-in-Tropic"
+  },
+  "image_85": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/60---A-6-Year-Old-Boy-from-Malawi-With-Proptos_2022_Clinical-Cases-in-Tropic/images/_page_1_Picture_8.jpeg",
+    "Caption": "Histology of Burkitt's lymphoma (H&E stain) showing monomorphic tumour cells of intermediate size, indistinct nuclei with coarse chromatin and vacuoles in the cytoplasm (×100 high-power field).",
+    "SourceFile": "60---A-6-Year-Old-Boy-from-Malawi-With-Proptos_2022_Clinical-Cases-in-Tropic"
+  },
+  "image_86": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/61---A-48-Year-Old-Woman-from-Thailand-With-Fever-_2022_Clinical-Cases-in-Tr/images/_page_0_Picture_16.jpeg",
+    "Caption": "Subcutaneous abscess on the left forearm.",
+    "SourceFile": "61---A-48-Year-Old-Woman-from-Thailand-With-Fever-_2022_Clinical-Cases-in-Tr"
+  },
+  "image_87": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/61---A-48-Year-Old-Woman-from-Thailand-With-Fever-_2022_Clinical-Cases-in-Tr/images/_page_1_Picture_3.jpeg",
+    "Caption": "Radiograph of the left elbow, showing osteolytic lesions of the radial epicondylus, osteomyelitis and articular effusion.",
+    "SourceFile": "61---A-48-Year-Old-Woman-from-Thailand-With-Fever-_2022_Clinical-Cases-in-Tr"
+  },
+  "image_88": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/62---A-28-Year-Old-Man-from-Ghana-With-a-Chron_2022_Clinical-Cases-in-Tropic/images/_page_0_Picture_11.jpeg",
+    "Caption": "The patient's left leg showing an ulcer surrounded by hyperpigmented skin on the medial malleolus.",
+    "SourceFile": "62---A-28-Year-Old-Man-from-Ghana-With-a-Chron_2022_Clinical-Cases-in-Tropic"
+  },
+  "image_89": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/62---A-28-Year-Old-Man-from-Ghana-With-a-Chron_2022_Clinical-Cases-in-Tropic/images/_page_1_Picture_8.jpeg",
+    "Caption": "Patient's blood film: irreversibly sickled cells (S), polychromasia (P), target cells (TC), nucleated red cells (NRC) – note similarity with lymphocyte (L). Adequate platelets.",
+    "SourceFile": "62---A-28-Year-Old-Man-from-Ghana-With-a-Chron_2022_Clinical-Cases-in-Tropic"
+  },
+  "image_90": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/63---A-38-Year-Old-European-Expatriate-Living-in-M_2022_Clinical-Cases-in-Tr/images/_page_1_Picture_12.jpeg",
+    "Caption": "T2-weighted MRI scan of the spinal cord.",
+    "SourceFile": "63---A-38-Year-Old-European-Expatriate-Living-in-M_2022_Clinical-Cases-in-Tr"
+  },
+  "image_91": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/64---A-40-Year-Old-Woman-from-Thailand-and-Her-Bro_2022_Clinical-Cases-in-Tr/images/_page_1_Picture_12.jpeg",
+    "Caption": "Romanowski–Giemsa stain of the CSF sample revealing large numbers of eosinophils with red (eosinophilic) cytoplasm. (Courtesy Prof. Thomas Schneider)",
+    "SourceFile": "64---A-40-Year-Old-Woman-from-Thailand-and-Her-Bro_2022_Clinical-Cases-in-Tr"
+  },
+  "image_92": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/65---A-4-Year-Old-Girl-from-Bolivia-With-a-Dar_2022_Clinical-Cases-in-Tropic/images/_page_0_Figure_19.jpeg",
+    "Caption": "Microscopic examination of removed tissue containing parts of female flea (arrow) and typical eggs (size 600 280 μm).",
+    "SourceFile": "65---A-4-Year-Old-Girl-from-Bolivia-With-a-Dar_2022_Clinical-Cases-in-Tropic"
+  },
+  "image_93": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/66---A-32-Year-Old-Man-from-Malawi-With-Pain-in-the-_2022_Clinical-Cases-in-/images/_page_0_Picture_15.jpeg",
+    "Caption": "Chest radiograph of the patient showing an enlarged globular cardiac silhouette with clear lung fields.",
+    "SourceFile": "66---A-32-Year-Old-Man-from-Malawi-With-Pain-in-the-_2022_Clinical-Cases-in-"
+  },
+  "image_94": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/68---A-31-Year-Old-Woman-from-Malawi-With-a-Gene_2022_Clinical-Cases-in-Trop/images/_page_0_Picture_17.jpeg",
+    "Caption": "The face of the patient, showing bilateral swelling of the eyes with conjunctivitis and swollen lips with haemorrhagic crusts. The maculopapular rash was non-itchy and spared the scalp.",
+    "SourceFile": "68---A-31-Year-Old-Woman-from-Malawi-With-a-Gene_2022_Clinical-Cases-in-Trop"
+  },
+  "image_95": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/68---A-31-Year-Old-Woman-from-Malawi-With-a-Gene_2022_Clinical-Cases-in-Trop/images/_page_1_Picture_14.jpeg",
+    "Caption": "The right leg of another patient with SJS/TEN showing extensive epidermal sloughing and large areas of denuded dermis.",
+    "SourceFile": "68---A-31-Year-Old-Woman-from-Malawi-With-a-Gene_2022_Clinical-Cases-in-Trop"
+  },
+  "image_96": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/69---A-22-Year-Old-Male-Farmer-from-Rural-Ethiop_2022_Clinical-Cases-in-Trop/images/_page_0_Picture_14.jpeg",
+    "Caption": "Lathyrus sativus (local name guaya) grass pea plant and its leguminous seeds.",
+    "SourceFile": "69---A-22-Year-Old-Male-Farmer-from-Rural-Ethiop_2022_Clinical-Cases-in-Trop"
+  },
+  "image_97": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/7---A-28-Year-Old-Male-Fisherman-from-Malawi-Wi_2022_Clinical-Cases-in-Tropi/images/_page_0_Picture_17.jpeg",
+    "Caption": "Chest radiograph on admission.",
+    "SourceFile": "7---A-28-Year-Old-Male-Fisherman-from-Malawi-Wi_2022_Clinical-Cases-in-Tropi"
+  },
+  "image_98": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/7---A-28-Year-Old-Male-Fisherman-from-Malawi-Wi_2022_Clinical-Cases-in-Tropi/images/_page_1_Picture_20.jpeg",
+    "Caption": "Cystoscopy findings of a patient with urogenital schistosomiasis. The white arrows show 'sandy patches' (left) and hyperaemia of the bladder mucosa (top). (Courtesy Iran Mendonc¸a da Silva.)",
+    "SourceFile": "7---A-28-Year-Old-Male-Fisherman-from-Malawi-Wi_2022_Clinical-Cases-in-Tropi"
+  },
+  "image_99": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/71---A-71-Year-Old-Man-from-Japan-With-Eosinophili_2022_Clinical-Cases-in-Tr/images/_page_2_Picture_15.jpeg",
+    "Caption": "Chest x-ray of a patient with acute paragonimiasis, showing right-sided pleural effusion.",
+    "SourceFile": "71---A-71-Year-Old-Man-from-Japan-With-Eosinophili_2022_Clinical-Cases-in-Tr"
+  },
+  "image_100": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/71---A-71-Year-Old-Man-from-Japan-With-Eosinophili_2022_Clinical-Cases-in-Tr/images/_page_2_Picture_17.jpeg",
+    "Caption": "Chest x-ray of a patient with acute paragonimiasis, showing right-sided pleural effusion.",
+    "SourceFile": "71---A-71-Year-Old-Man-from-Japan-With-Eosinophili_2022_Clinical-Cases-in-Tr"
+  },
+  "image_101": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/71---A-71-Year-Old-Man-from-Japan-With-Eosinophili_2022_Clinical-Cases-in-Tr/images/_page_3_Picture_4.jpeg",
+    "Caption": "Multiple-dot ELISA for helminthiases showing positive reaction against P. westermani antigen. NHS: normal human serum for positive control; Pw: P. westermani; Pm: P. miyazakii; Fh: Fasciola hepatica; Cs: Clonorchis sinensis; Se: Spirometra erinacei europaei; Cc: Cysticercus cellulosae; Di: Dirofilaria immitis; Tc: Toxocara canis; As: Ascaris sum; Asx: Anisakis simplex; Gd: Gnathostoma doloresi; Sr: Strongyloides stercoralis.",
+    "SourceFile": "71---A-71-Year-Old-Man-from-Japan-With-Eosinophili_2022_Clinical-Cases-in-Tr"
+  },
+  "image_102": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/72---A-4-Year-Old-Boy-from-Mozambique-With-Sever_2022_Clinical-Cases-in-Trop/images/_page_0_Picture_17.jpeg",
+    "Caption": "A 5-year-old boy with generalized oedema. The skin is hyperpigmented and dry. It is peeling off like 'flaky paint'. Underneath, the skin is hypopigmented.",
+    "SourceFile": "72---A-4-Year-Old-Boy-from-Mozambique-With-Sever_2022_Clinical-Cases-in-Trop"
+  },
+  "image_103": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/72---A-4-Year-Old-Boy-from-Mozambique-With-Sever_2022_Clinical-Cases-in-Trop/images/_page_0_Picture_19.jpeg",
+    "Caption": "A 5-year-old boy with generalized oedema. The skin is hyperpigmented and dry. It is peeling off like 'flaky paint'. Underneath, the skin is hypopigmented.",
+    "SourceFile": "72---A-4-Year-Old-Boy-from-Mozambique-With-Sever_2022_Clinical-Cases-in-Trop"
+  },
+  "image_104": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/75---A-25-Year-Old-Woman-from-Zambia-With-a-N_2022_Clinical-Cases-in-Tropica/images/_page_1_Figure_2.jpeg",
+    "Caption": "EEG demonstrating a slow background with superimposed delta frequency slowing of the right hemisphere.",
+    "SourceFile": "75---A-25-Year-Old-Woman-from-Zambia-With-a-N_2022_Clinical-Cases-in-Tropica"
+  },
+  "image_105": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/75---A-25-Year-Old-Woman-from-Zambia-With-a-N_2022_Clinical-Cases-in-Tropica/images/_page_1_Figure_4.jpeg",
+    "Caption": "EEG demonstrating a slow background with superimposed delta frequency slowing of the right hemisphere.",
+    "SourceFile": "75---A-25-Year-Old-Woman-from-Zambia-With-a-N_2022_Clinical-Cases-in-Tropica"
+  },
+  "image_106": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/76---A-55-Year-Old-Woman-from-Turkey-With-Feve_2022_Clinical-Cases-in-Tropic/images/_page_1_Figure_2.jpeg",
+    "Caption": "Transoesophageal echocardiography showing a two-cornered vegetation (arrow) measuring about  $18\\,\\text{mm} \\times 7\\,\\text{mm}$  attached to the posterolateral left atrial side of a St Jude Medical prosthesis in mitral position (LV, left ventricle; LA, left atrium).",
+    "SourceFile": "76---A-55-Year-Old-Woman-from-Turkey-With-Feve_2022_Clinical-Cases-in-Tropic"
+  },
+  "image_107": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/77---A-51-Year-Old-Female-Traveller-Returning-from-Cen_2022_Clinical-Cases-i/images/_page_0_Picture_13.jpeg",
+    "Caption": "Conjunctivitis, maculopapular skin rash, and peripheral oedema of the patient.",
+    "SourceFile": "77---A-51-Year-Old-Female-Traveller-Returning-from-Cen_2022_Clinical-Cases-i"
+  },
+  "image_108": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/77---A-51-Year-Old-Female-Traveller-Returning-from-Cen_2022_Clinical-Cases-i/images/_page_1_Figure_11.jpeg",
+    "Caption": "Kinetics of the different arboviral test parameters.",
+    "SourceFile": "77---A-51-Year-Old-Female-Traveller-Returning-from-Cen_2022_Clinical-Cases-i"
+  },
+  "image_109": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/78---A-42-Year-Old-British-Man-Living-in-Malawi_2022_Clinical-Cases-in-Tropi/images/_page_0_Picture_15.jpeg",
+    "Caption": "Circumscribed, painless slighly erythematous swelling on the inside of the left ankle.",
+    "SourceFile": "78---A-42-Year-Old-British-Man-Living-in-Malawi_2022_Clinical-Cases-in-Tropi"
+  },
+  "image_110": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/78---A-42-Year-Old-British-Man-Living-in-Malawi_2022_Clinical-Cases-in-Tropi/images/_page_1_Picture_11.jpeg",
+    "Caption": "Abdominal rash.",
+    "SourceFile": "78---A-42-Year-Old-British-Man-Living-in-Malawi_2022_Clinical-Cases-in-Tropi"
+  },
+  "image_111": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/79---A-34-Year-Old-Male-Immigrant-from-Peru-With-Ch_2022_Clinical-Cases-in-T/images/_page_0_Picture_15.jpeg",
+    "Caption": "Duodenal biopsy with signs of chronic duodenitis and multiple elongated structures (arrows) compatible with a helminth infection (H&E stain, magnification 400).",
+    "SourceFile": "79---A-34-Year-Old-Male-Immigrant-from-Peru-With-Ch_2022_Clinical-Cases-in-T"
+  },
+  "image_112": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/79---A-34-Year-Old-Male-Immigrant-from-Peru-With-Ch_2022_Clinical-Cases-in-T/images/_page_1_Picture_15.jpeg",
+    "Caption": "Image from 79---A-34-Year-Old-Male-Immigrant-from-Peru-With-Ch_2022_Clinical-Cases-in-T",
+    "SourceFile": "79---A-34-Year-Old-Male-Immigrant-from-Peru-With-Ch_2022_Clinical-Cases-in-T"
+  },
+  "image_113": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/79---A-34-Year-Old-Male-Immigrant-from-Peru-With-Ch_2022_Clinical-Cases-in-T/images/_page_1_Picture_16.jpeg",
+    "Caption": "(A) Baermann technique showing high load of motile rhabditiform larvae of S. stercoralis in a stool sample. (B) Rhabditiform larvae are also present in a wet mount preparation of respiratory secretion.",
+    "SourceFile": "79---A-34-Year-Old-Male-Immigrant-from-Peru-With-Ch_2022_Clinical-Cases-in-T"
+  },
+  "image_114": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/8---A-26-Year-Old-Female-Traveller-Returning-from_2022_Clinical-Cases-in-Tro/images/_page_0_Picture_9.jpeg",
+    "Caption": "Boil on the left leg covered with a dark scab. (Courtesy Dr Sebastian Dieckmann)",
+    "SourceFile": "8---A-26-Year-Old-Female-Traveller-Returning-from_2022_Clinical-Cases-in-Tro"
+  },
+  "image_115": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/8---A-26-Year-Old-Female-Traveller-Returning-from_2022_Clinical-Cases-in-Tro/images/_page_1_Picture_7.jpeg",
+    "Caption": "Larva of a botfly (Dermatobia hominis). (Courtesy Dr Sebastian Dieckmann)",
+    "SourceFile": "8---A-26-Year-Old-Female-Traveller-Returning-from_2022_Clinical-Cases-in-Tro"
+  },
+  "image_116": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/80---A-62-Year-Old-Man-from-Thailand-With-a_2022_Clinical-Cases-in-Tropical-/images/_page_1_Figure_2.jpeg",
+    "Caption": "Abdominal MRI revealing a single solid liver mass lesion at the segment VI/VII. No marked bile duct dilatation is seen.",
+    "SourceFile": "80---A-62-Year-Old-Man-from-Thailand-With-a_2022_Clinical-Cases-in-Tropical-"
+  },
+  "image_117": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/80---A-62-Year-Old-Man-from-Thailand-With-a_2022_Clinical-Cases-in-Tropical-/images/_page_1_Figure_4.jpeg",
+    "Caption": "Abdominal MRI revealing a single solid liver mass lesion at the segment VI/VII. No marked bile duct dilatation is seen.",
+    "SourceFile": "80---A-62-Year-Old-Man-from-Thailand-With-a_2022_Clinical-Cases-in-Tropical-"
+  },
+  "image_118": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/81---A-33-Year-Old-Refugee-from-Afghanistan-With-_2022_Clinical-Cases-in-Tro/images/_page_1_Picture_2.jpeg",
+    "Caption": "Image from 81---A-33-Year-Old-Refugee-from-Afghanistan-With-_2022_Clinical-Cases-in-Tro",
+    "SourceFile": "81---A-33-Year-Old-Refugee-from-Afghanistan-With-_2022_Clinical-Cases-in-Tro"
+  },
+  "image_119": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/82---A-31-Year-Old-Man-from-Guatemala-With-Acute-_2022_Clinical-Cases-in-Tro/images/_page_0_Picture_22.jpeg",
+    "Caption": "CT of the head demonstrates multiple calcifications in the brain parenchyma (yellow arrows).",
+    "SourceFile": "82---A-31-Year-Old-Man-from-Guatemala-With-Acute-_2022_Clinical-Cases-in-Tro"
+  },
+  "image_120": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/83---An-18-Year-Old-Man-from-India-With-a-Pale-P_2022_Clinical-Cases-in-Trop/images/_page_0_Picture_17.jpeg",
+    "Caption": "A hypopigmented macular skin lesion with reduced sensation on the right arm of an 18-year-old Indian male.",
+    "SourceFile": "83---An-18-Year-Old-Man-from-India-With-a-Pale-P_2022_Clinical-Cases-in-Trop"
+  },
+  "image_121": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/84---A-64-Year-Old-Japanese-Man-With-Generalize_2022_Clinical-Cases-in-Tropi/images/_page_1_Figure_2.jpeg",
+    "Caption": "MRI A. T1-weighted MRI showing a ring-shaped nodule with gadolinium enhancement in the left occipital lobe. B. T2-weighted image showing an area of hyperintensity associated with an adjacent ventricular dilation. C, D. Post-contrast coronal and sagittal T1-weighted images demonstrating a tunnel-shaped enhancement, so-called tunnel sign.",
+    "SourceFile": "84---A-64-Year-Old-Japanese-Man-With-Generalize_2022_Clinical-Cases-in-Tropi"
+  },
+  "image_122": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/84---A-64-Year-Old-Japanese-Man-With-Generalize_2022_Clinical-Cases-in-Tropi/images/_page_1_Figure_4.jpeg",
+    "Caption": "MRI A. T1-weighted MRI showing a ring-shaped nodule with gadolinium enhancement in the left occipital lobe. B. T2-weighted image showing an area of hyperintensity associated with an adjacent ventricular dilation. C, D. Post-contrast coronal and sagittal T1-weighted images demonstrating a tunnel-shaped enhancement, so-called tunnel sign.",
+    "SourceFile": "84---A-64-Year-Old-Japanese-Man-With-Generalize_2022_Clinical-Cases-in-Tropi"
+  },
+  "image_123": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/85---A-55-Year-Old-Female-Pig-Farmer-from-Vietnam-_2022_Clinical-Cases-in-Tr/images/_page_0_Picture_14.jpeg",
+    "Caption": "Petechial rash on the trunk of the patient.",
+    "SourceFile": "85---A-55-Year-Old-Female-Pig-Farmer-from-Vietnam-_2022_Clinical-Cases-in-Tr"
+  },
+  "image_124": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/85---A-55-Year-Old-Female-Pig-Farmer-from-Vietnam-_2022_Clinical-Cases-in-Tr/images/_page_0_Picture_16.jpeg",
+    "Caption": "Petechial rash on the trunk of the patient.",
+    "SourceFile": "85---A-55-Year-Old-Female-Pig-Farmer-from-Vietnam-_2022_Clinical-Cases-in-Tr"
+  },
+  "image_125": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/86---A-14-Year-Old-Girl-in-the-Solomon-Islands-W_2022_Clinical-Cases-in-Trop/images/_page_0_Picture_8.jpeg",
+    "Caption": "Image from 86---A-14-Year-Old-Girl-in-the-Solomon-Islands-W_2022_Clinical-Cases-in-Trop",
+    "SourceFile": "86---A-14-Year-Old-Girl-in-the-Solomon-Islands-W_2022_Clinical-Cases-in-Trop"
+  },
+  "image_126": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/87---A-27-Year-Old-Male-Traveller-Returning-from-the_2022_Clinical-Cases-in-/images/_page_2_Picture_2.jpeg",
+    "Caption": "Image from 87---A-27-Year-Old-Male-Traveller-Returning-from-the_2022_Clinical-Cases-in-",
+    "SourceFile": "87---A-27-Year-Old-Male-Traveller-Returning-from-the_2022_Clinical-Cases-in-"
+  },
+  "image_127": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/89---A-30-Year-Old-Woman-from-Bolivia-With-Ex_2022_Clinical-Cases-in-Tropica/images/_page_1_Figure_2.jpeg",
+    "Caption": "A: ECG showing sinus bradycardia with right bundle branch block B: CXR showing a moderately enlarged cardiac silhouette.",
+    "SourceFile": "89---A-30-Year-Old-Woman-from-Bolivia-With-Ex_2022_Clinical-Cases-in-Tropica"
+  },
+  "image_128": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/89---A-30-Year-Old-Woman-from-Bolivia-With-Ex_2022_Clinical-Cases-in-Tropica/images/_page_1_Picture_9.jpeg",
+    "Caption": "Maculopoapular rash with pruritus after 15 days on benznidazole.",
+    "SourceFile": "89---A-30-Year-Old-Woman-from-Bolivia-With-Ex_2022_Clinical-Cases-in-Tropica"
+  },
+  "image_129": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/90---A-55-Year-Old-Couple-Both-Returning-from-Chile-a_2022_Clinical-Cases-in/images/_page_0_Picture_14.jpeg",
+    "Caption": "Chest x-ray findings of the female patient on day 1, day 5 and day 6 of admission.",
+    "SourceFile": "90---A-55-Year-Old-Couple-Both-Returning-from-Chile-a_2022_Clinical-Cases-in"
+  },
+  "image_130": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/90---A-55-Year-Old-Couple-Both-Returning-from-Chile-a_2022_Clinical-Cases-in/images/_page_1_Figure_22.jpeg",
+    "Caption": "Computed tomography of the chest (lung window) of the female patient on day 13 showing extensive and dense dorsal infiltrations and the centrally placed ECMO cannulae.",
+    "SourceFile": "90---A-55-Year-Old-Couple-Both-Returning-from-Chile-a_2022_Clinical-Cases-in"
+  },
+  "image_131": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/92---A-42-Year-Old-Traveller-Returning-from-Thaila_2022_Clinical-Cases-in-Tr/images/_page_1_Picture_11.jpeg",
+    "Caption": "Young trophozoite (ring form) of *P. knowlesi* (Giemsa-stained thin film).",
+    "SourceFile": "92---A-42-Year-Old-Traveller-Returning-from-Thaila_2022_Clinical-Cases-in-Tr"
+  },
+  "image_132": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/92---A-42-Year-Old-Traveller-Returning-from-Thaila_2022_Clinical-Cases-in-Tr/images/_page_1_Picture_13.jpeg",
+    "Caption": "Young trophozoite (ring form) of *P. knowlesi* (Giemsa-stained thin film).",
+    "SourceFile": "92---A-42-Year-Old-Traveller-Returning-from-Thaila_2022_Clinical-Cases-in-Tr"
+  },
+  "image_133": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/93---A-35-Year-Old-Male-Logger-from-Peru-With-Fe_2022_Clinical-Cases-in-Trop/images/_page_1_Picture_3.jpeg",
+    "Caption": "Extended ecchymoses in a febrile Peruvian logger with fever and jaundice",
+    "SourceFile": "93---A-35-Year-Old-Male-Logger-from-Peru-With-Fe_2022_Clinical-Cases-in-Trop"
+  },
+  "image_134": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/93---A-35-Year-Old-Male-Logger-from-Peru-With-Fe_2022_Clinical-Cases-in-Trop/images/_page_2_Picture_2.jpeg",
+    "Caption": "Chest x-ray of the patient showing bilateral patchy infiltrates.",
+    "SourceFile": "93---A-35-Year-Old-Male-Logger-from-Peru-With-Fe_2022_Clinical-Cases-in-Trop"
+  },
+  "image_135": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/94---A-20-Year-Old-Woman-from-the-Democratic-Republic-_2022_Clinical-Cases-i/images/_page_0_Picture_10.jpeg",
+    "Caption": "Table: 1",
+    "SourceFile": "94---A-20-Year-Old-Woman-from-the-Democratic-Republic-_2022_Clinical-Cases-i"
+  },
+  "image_136": {
+    "Path": "https://raw.githubusercontent.com/Springblade/Project-LLM/main/extracted_data/94---A-20-Year-Old-Woman-from-the-Democratic-Republic-_2022_Clinical-Cases-i/images/_page_2_Picture_2.jpeg",
+    "Caption": "Healing skin lesions at discharge from the hospital",
+    "SourceFile": "94---A-20-Year-Old-Woman-from-the-Democratic-Republic-_2022_Clinical-Cases-i"
+  }
 }
