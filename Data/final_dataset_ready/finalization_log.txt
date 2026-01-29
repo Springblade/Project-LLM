@@ -1,0 +1,15 @@
+Dataset Finalization Log - 2026-01-17 11:14:30.838774
+============================================================
+
+[INFO] Checking input files...
+[SUCCESS] All input files found!
+[INFO] Loading image_mapping.json...
+[SUCCESS] Loaded 133 image mappings
+[INFO] Creating output directory: /content/drive/MyDrive/Tropical Chatbot/final_dataset_ready
+[SUCCESS] Created output directories
+[INFO] Copying images...
+[SUCCESS] Copied 133/133 images
+[INFO] Copying JSON dataset files...
+[SUCCESS] Copied train_multimodal.json
+[SUCCESS] Copied test_multimodal.json
+[SUCCESS] Created README.md

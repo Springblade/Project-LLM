@@ -1,7 +1,0 @@
-{
-    "Question": {
-      "Text": "A 40-year-old man presents to a clinic in Togo with a triad of corneal opacities, skin changes and subcutaneous nodules. Many adults in the village are blind. The patient also complains of suffering from intense itching of his skin that keeps him awake at night",
-      "ImageList" : "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case19/Onchocerciasis-eye.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case19/images%20(1).jpg']" 
-    },
-    "Answer": "This presentation is highly suggestive of onchocerciasis (river blindness), caused by Onchocerca volvulus, characterized by skin itching, subcutaneous nodules, and ocular involvement leading to blindness, common in endemic areas like Togo."
-  }

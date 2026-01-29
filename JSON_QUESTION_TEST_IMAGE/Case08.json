@@ -1,7 +1,0 @@
-{
-    "Question": {
-      "Text": "A 26-year-old German student presents to the clinic because of an itchy swelling on her left leg. The skin surrounding the swelling is slightly hyperaemic. The boil is covered by a blackish scab",
-      "ImageList" : "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case08/images%20(1).jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case08/Miasis_human.jpg']" 
-    },
-    "Answer": "Furuncular myiasis (Tumbu fly/Cordylobia anthropophaga infestation) - The patient presents with a pruritic boil-like lesion with central punctum. The images show a furuncular lesion with central breathing hole and fly larvae (maggots) being extracted from subcutaneous tissue, typical of botfly larvae infestation acquired from contaminated soil or clothing."
-  }
