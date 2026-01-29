@@ -1,9 +1,9 @@
-#setting up envi
+#setting up environment and dependencies for the project
 # 1. Create a safe sandbox for your work
 python -m venv /workspace/unsloth_env
 source /workspace/unsloth_env/bin/activate
 
-# 2. Install Blackwell-specific Torch (Nightly supports SM 10.0)
+
 pip install --pre torch torchvision torchaudio
 
 # 3. Install Unsloth and essential tools
@@ -14,6 +14,10 @@ pip install qdrant-client
 pip install einops
 pip install timm
 
+
+pip install qwen-vl-utils[decord]==0.0.8
+pip install deepeval
+
 # 4. Make this environment show up in Jupyter
 pip install gguf protobuf sentencepiece mistral_common ipykernel
-python -m ipykernel install --user --name=unsloth_env --display-name "Unsloth (RTX 5090)"
+python -m ipykernel install --user --name=unsloth_env --display-name "Venv_Med)"
