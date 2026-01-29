@@ -1,7 +1,0 @@
-{
-    "Question": {
-      "Text": "A 3-year-old boy presents to a clinic in Laos with a 10-day history of fever and poor appetite. He also has unilateral parotid swelling and purulent discharge from his ear.",
-      "ImageList" : "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case15/images%20(1).jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case15/urn_cambridge.org_id_binary_20181004021412280-0320_S0022215118001391_S0022215118001391_fig1g.jpeg']" 
-    },
-    "Answer": "Melioidosis with parotitis and mastoiditis - The patient presents with prolonged fever, unilateral parotid swelling, and purulent otorrhea in Laos, highly endemic for Burkholderia pseudomallei. The images show parotid abscess with ear discharge and bipolar-staining gram-negative bacilli (safety-pin appearance) characteristic of Burkholderia pseudomallei, an important tropical infection in Southeast Asia."
-  }

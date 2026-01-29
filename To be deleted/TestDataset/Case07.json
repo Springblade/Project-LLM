@@ -1,7 +1,0 @@
-{
-    "Question": {
-      "Text": "A 28-year-old man presents to a clinic in Malawi with fever, shortness of breath, nausea/vomiting, abdominal pain. He reports orthopnoea and paroxysmal nocturnal dyspnoea, bilateral flank pain in the past days, which is continuous and dull ",
-      "ImageList" : "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case07/0256-4947.webp','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case07/gr1.jpeg']" 
-    },
-    "Answer":"The presentation suggests acute heart failure, possibly due to infective endocarditis or myocarditis, with renal involvement causing flank pain; malaria with renal failure (blackwater fever) could also be a consideration in Malawi."
-  }

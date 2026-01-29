@@ -1,7 +1,0 @@
-{
-    "Question": {
-      "Text": "A 25-year-old woman. known to be HIV-positive and on ART, presents to a clinic in Malaw with confusion, high fever and convulsions on admission. Pupils are equal and reactive with photophobia; the neck is stiff and there is no rash.",
-      "ImageList" : "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case16/OSC_Microbio_26_02_Brains.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case16/gr1_lrg.jpg']" 
-    },
-    "Answer": "Cryptococcal meningitis - The HIV-positive patient on ART presents with acute meningitis (fever, confusion, seizures, neck stiffness, photophobia) in Malawi. The images show encapsulated yeast cells with India ink stain and budding Cryptococcus neoformans organisms, the most common cause of fungal meningitis in HIV-positive patients in sub-Saharan Africa."
-  }

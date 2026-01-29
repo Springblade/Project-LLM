@@ -1,7 +1,0 @@
-{
-    "Question": {
-      "Text": "A 7-year-old girl presents to a clinic in Peru with fever, myalgia, arthralgia, skin lesions/rash/itching, nausea/vomiting.",
-      "ImageList" : "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case02/images%20(2).jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case02/images%20(1).jpg']" 
-    },
-    "Answer": "Bartonellosis (Carrion's disease/Oroya fever) - The patient presents with acute febrile illness with myalgia and skin lesions in Peru, an endemic region. The images show the characteristic verruga peruana (Peruvian warts) - reddish-purple nodular skin lesions caused by Bartonella bacilliformis transmitted by sandflies."
-  }

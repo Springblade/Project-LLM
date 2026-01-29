@@ -1,7 +1,0 @@
-{
-  "Question": {
-    "Text": "A 33-Year-Old Male Traveller With weight loss, anorexia, malaise, flatulence and abdominal cramping when passing loose stool (four or five episodes per day). The stools have become greasy and foul-smelling, and he has bloating and distension after consumption of milk or milk products.",
-    "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case49/Giardia-trophozite-stain-Web.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case49/giardia-lamblia-cysts-trophozoite-form-260nw-2385002007.jpg']"
-  },
-    "Answer": "Giardiasis - The traveler presents with chronic diarrhea, weight loss, malabsorption symptoms with greasy foul-smelling stools, bloating, and lactose intolerance. The images show characteristic 'face-like' appearance of Giardia lamblia trophozoites with two nuclei and flagella, and oval cysts. Giardiasis causes small intestinal infection with malabsorption, steatorrhea, and lactase deficiency, acquired from contaminated water in endemic areas, often affecting travelers."
-}

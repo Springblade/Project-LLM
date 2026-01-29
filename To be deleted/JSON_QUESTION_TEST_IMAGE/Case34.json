@@ -1,7 +1,0 @@
-{
-  "Question": {
-    "Text": "A 35-Year-Old Male Farmer from Peru with a chronic ulcerative lesion and multiple painless nodules on his left hand ",
-    "ImageList": "['https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case34/3-s2.0-B9780128096338210121-f21012-04-9780128199909.jpg','https://raw.githubusercontent.com/Springblade/Project-LLM/refs/heads/main/Image%20Test%20Case/Case34/images%20(1).jpg']"
-  },
-    "Answer": "Sporotrichosis (lymphocutaneous form) - The farmer from Peru presents with chronic ulcerative lesion and multiple painless nodules along lymphatic distribution on the hand. The images show sporotrichoid spread (linear nodular lesions) and cigar-shaped yeast forms of Sporothrix schenckii on microscopy. This dimorphic fungal infection is acquired through traumatic inoculation from soil, plants, or thorns, classically in rose gardeners or farmers."
-}
